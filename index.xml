@@ -1,0 +1,16 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Un ingeniero de software, backend developer, PHP y Python.</title>
+        <link>https://fernandod1.github.io/</link>
+        <description>About LoveIt Theme</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Tue, 01 Dec 2020 21:57:40 &#43;0800</lastBuildDate>
+            <atom:link href="https://fernandod1.github.io/index.xml" rel="self" type="application/rss+xml" />
+        <item>
+    <title>Página en construcción</title>
+    <link>https://fernandod1.github.io/pagina-en-construccion/</link>
+    <pubDate>Tue, 01 Dec 2020 21:57:40 &#43;0800</pubDate>
+    <author>Author</author>
+    <guid>https://fernandod1.github.io/pagina-en-construccion/</guid>
+    <description><![CDATA[<p>La página de proyectos realizados se encuentra en construcción.</p>]]></description>
+</item></channel>
+</rss>
