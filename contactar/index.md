@@ -7,7 +7,7 @@ Si piensas que puedo aportar valor a tu empresa o simplemente quieres saludarme,
 
 Puedes contactarme rellenando el siguiente formulario web:
 
-- [Mi formulario de contacto](https://docs.google.com/forms/d/e/1FAIpQLSc5KKWK2ZfIzSo4pZkAFbMhihmVgWwN7O-y3Gk1QVf2T2G56Q/viewform).
+- [Mi formulario de contacto](https://docs.google.com/forms/d/e/1FAIpQLSdgnllkSUBlqWlFhwn_QzsUbgb_uHC_tldGHmmGZV1mlGLW_w/viewform).
 
 O mediante redes sociales:
 
