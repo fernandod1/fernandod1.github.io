@@ -61,4 +61,4 @@ Disallow: /
 User-agent: ZoominfoBot
 Disallow: /
 
-Sitemap: https://fernandod1.github.io/sitemap.xml
+Sitemap: https://www.fernando.info/sitemap.xml
