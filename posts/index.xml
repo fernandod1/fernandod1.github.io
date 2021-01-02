@@ -3,7 +3,21 @@
         <title>Posts - Un ingeniero de software, backend developer, PHP y Python.</title>
         <link>https://www.fernando.info/posts/</link>
         <description>Posts | Un ingeniero de software, backend developer, PHP y Python.</description>
-        <generator>Hugo -- gohugo.io</generator><language>en</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Sun, 27 Dec 2020 21:57:40 &#43;0800</lastBuildDate><atom:link href="https://www.fernando.info/posts/" rel="self" type="application/rss+xml" /><item>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Sat, 02 Jan 2021 08:57:40 &#43;0800</lastBuildDate><atom:link href="https://www.fernando.info/posts/" rel="self" type="application/rss+xml" /><item>
+    <title>Meeting room booking system</title>
+    <link>https://www.fernando.info/meeting-room-booking-system/</link>
+    <pubDate>Sat, 02 Jan 2021 08:57:40 &#43;0800</pubDate>
+    <author>Author</author>
+    <guid>https://www.fernando.info/meeting-room-booking-system/</guid>
+    <description><![CDATA[<p>PHP script to manage a meeting room booking system. Some of it&rsquo;s features:</p>
+<ul>
+<li>Added calendar to select any date.</li>
+<li>Script configured to assign best room acording to number of persons and capability.</li>
+<li>Not MySQL database required. Data stored in plain text files.</li>
+</ul>
+<p>Script en PHP simula un sistema de reserva en franjas horarias de salas de reuniones. El escript optimiza la asignación de sala en función de la capacidad de la sala y del número de personas que deben reunirse, asignado la sala con capacicidad mínima que cumpla el número de personas requeridas.</p>
+<p><a href="https://github.com/fernandod1/Meeting-room-booking-system" target="_blank" rel="noopener noreffer">Download script</a></p>]]></description>
+</item><item>
     <title>Covid-19 daily report in Spain</title>
     <link>https://www.fernando.info/covid-19-spain/</link>
     <pubDate>Sun, 27 Dec 2020 21:57:40 &#43;0800</pubDate>
