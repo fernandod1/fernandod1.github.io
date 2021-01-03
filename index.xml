@@ -3,12 +3,12 @@
         <title>Un ingeniero de software, backend developer, PHP y Python.</title>
         <link>https://www.fernando.info/</link>
         <description>About LoveIt Theme</description>
-        <generator>Hugo -- gohugo.io</generator><language>en</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Sat, 02 Jan 2021 08:57:40 &#43;0800</lastBuildDate>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Sun, 03 Jan 2021 20:07:40 &#43;0100</lastBuildDate>
             <atom:link href="https://www.fernando.info/index.xml" rel="self" type="application/rss+xml" />
         <item>
     <title>Meeting room booking system</title>
     <link>https://www.fernando.info/meeting-room-booking-system/</link>
-    <pubDate>Sat, 02 Jan 2021 08:57:40 &#43;0800</pubDate>
+    <pubDate>Sat, 02 Jan 2021 08:27:40 &#43;0100</pubDate>
     <author>Author</author>
     <guid>https://www.fernando.info/meeting-room-booking-system/</guid>
     <description><![CDATA[<p>PHP script to manage a meeting room booking system. Some of it&rsquo;s features:</p>
@@ -20,19 +20,18 @@
 <p>Script en PHP simula un sistema de reserva en franjas horarias de salas de reuniones. El escript optimiza la asignación de sala en función de la capacidad de la sala y del número de personas que deben reunirse, asignado la sala con capacicidad mínima que cumpla el número de personas requeridas.</p>
 <p><a href="https://github.com/fernandod1/Meeting-room-booking-system" target="_blank" rel="noopener noreffer">Download script</a></p>]]></description>
 </item><item>
-    <title>Covid-19 daily report in Spain</title>
-    <link>https://www.fernando.info/covid-19-spain/</link>
-    <pubDate>Sun, 27 Dec 2020 21:57:40 &#43;0800</pubDate>
+    <title>Domains .ES expiration monitoring and backorder</title>
+    <link>https://www.fernando.info/domains-es/</link>
+    <pubDate>Sat, 02 Jan 2021 04:57:40 &#43;0100</pubDate>
     <author>Author</author>
-    <guid>https://www.fernando.info/covid-19-spain/</guid>
-    <description><![CDATA[<p>PHP script displaying daily reports/stats about Covid-19 virus status in Spain and its states. Data is collected from API of Ministerio de Sanidad of government of Spain.</p>
-<p>Script en PHP que muestra los datos diarios de infectados de Covid-19 en España realizando extrayendo la información de la API proporcionada por el Ministerio de Sanidad del gobierno de España.</p>
-<p><a href="https://covid19espana.herokuapp.com/" target="_blank" rel="noopener noreffer">Demo online</a></p>
-<p><a href="https://github.com/fernandod1/Covid-19-Spain" target="_blank" rel="noopener noreffer">Download script</a></p>]]></description>
+    <guid>https://www.fernando.info/domains-es/</guid>
+    <description><![CDATA[<p>Live monitoring .ES domains expiration and execute domain backorder as soon as expired. Notify spanish domains (.ES) expiration. For example, you can use registrants API to register domain instantly (domain backorder) &amp; catch it!</p>
+<p>Script en python que realiza un monitoreo continuado de la expiración del registro de un dominio .ES con el fin de realizar un backorder en el momento preciso para obtener el dominio de interés.</p>
+<p><a href="https://github.com/fernandod1/DomainES-backorder" target="_blank" rel="noopener noreffer">Download script</a></p>]]></description>
 </item><item>
     <title>Expiring link generator with control panel &amp; stats</title>
     <link>https://www.fernando.info/expiring-links-generator/</link>
-    <pubDate>Wed, 23 Dec 2020 21:57:40 &#43;0800</pubDate>
+    <pubDate>Sat, 02 Jan 2021 03:57:40 &#43;0100</pubDate>
     <author>Author</author>
     <guid>https://www.fernando.info/expiring-links-generator/</guid>
     <description><![CDATA[<p>Full PHP script with admin control panel to generate expiring links to keep track and stats of ad campaigns or other links stuff. When link expires (reach maximum number of clicks configured), script may redirects traffic to an alternative link like <a href="http://www.disney.com">www.disney.com</a> or print &ldquo;Expired campaign&rdquo; message.</p>
@@ -49,18 +48,9 @@
 <p>Cuando la campaña expira, el enlace personalizado al ser visitado podrá mostrar un mensaje de &ldquo;Campaña finalizada&rdquo; o redirigir el tráfico a otra dirección web.</p>
 <p><a href="https://github.com/fernandod1/Expiring-link-generator" target="_blank" rel="noopener noreffer">Download script and screenshots</a></p>]]></description>
 </item><item>
-    <title>Domains .ES expiration monitoring and backorder</title>
-    <link>https://www.fernando.info/domains-es/</link>
-    <pubDate>Tue, 22 Dec 2020 21:57:40 &#43;0800</pubDate>
-    <author>Author</author>
-    <guid>https://www.fernando.info/domains-es/</guid>
-    <description><![CDATA[<p>Live monitoring .ES domains expiration and execute domain backorder as soon as expired. Notify spanish domains (.ES) expiration. For example, you can use registrants API to register domain instantly (domain backorder) &amp; catch it!</p>
-<p>Script en python que realiza un monitoreo continuado de la expiración del registro de un dominio .ES con el fin de realizar un backorder en el momento preciso para obtener el dominio de interés.</p>
-<p><a href="https://github.com/fernandod1/DomainES-backorder" target="_blank" rel="noopener noreffer">Download script</a></p>]]></description>
-</item><item>
     <title>Instagram to Discord post images</title>
     <link>https://www.fernando.info/instagram-to-discord/</link>
-    <pubDate>Sat, 19 Dec 2020 21:57:40 &#43;0800</pubDate>
+    <pubDate>Sat, 02 Jan 2021 02:57:40 &#43;0100</pubDate>
     <author>Author</author>
     <guid>https://www.fernando.info/instagram-to-discord/</guid>
     <description><![CDATA[<p>This python script executes 2 actions:</p>
@@ -73,11 +63,51 @@
 </item><item>
     <title>Instagram images/videos downloader</title>
     <link>https://www.fernando.info/instagram-downloader/</link>
-    <pubDate>Tue, 01 Dec 2020 21:57:40 &#43;0800</pubDate>
+    <pubDate>Sat, 02 Jan 2021 01:57:40 &#43;0100</pubDate>
     <author>Author</author>
     <guid>https://www.fernando.info/instagram-downloader/</guid>
     <description><![CDATA[<p>Instagram user&rsquo;s photos and videos downloader python script. Download all media files from any public username.</p>
 <p>Script en python para descargar todas las imágenes y videos de un usuario de Instagram.</p>
 <p><a href="https://github.com/fernandod1/Instagram-downloader" target="_blank" rel="noopener noreffer">Download script</a></p>]]></description>
+</item><item>
+    <title>Laser hair removal control panel to manage clients threataments</title>
+    <link>https://www.fernando.info/laser-hair-removal-control-panel/</link>
+    <pubDate>Sun, 03 Jan 2021 20:07:40 &#43;0100</pubDate>
+    <author>Author</author>
+    <guid>https://www.fernando.info/laser-hair-removal-control-panel/</guid>
+    <description><![CDATA[<p>Full PHP script control panel to manage client&rsquo;s database and sessions of laser hair removal threataments in a beauty center.</p>
+<p>Features:</p>
+<ul>
+<li>Add, edit, remove clients.</li>
+<li>List all clients or search one client.</li>
+<li>Upload system of client&rsquo;s disclaimer threatament documents.</li>
+<li>Add, remove new threatament to client. (Mode just one session or Pack of 5 sessions (&ldquo;bonus pack&rdquo;)).</li>
+<li>Consume session of client.</li>
+<li>Counter of sessions left of each threatament of client.</li>
+<li>Option &ldquo;pay before session threatament&rdquo; or &ldquo;pending payment&rdquo; label reminder).</li>
+<li>Note: script is actually only translated to spanish, sorry.</li>
+</ul>
+<p>Script completo en PHP consistente en un panel de administración de clientes de un centro de depilación láser. Permite llevar la administración de los servicios contratados y sesiones consumidas por cada cliente.</p>
+<p>Características:</p>
+<ul>
+<li>Añadir, modificar, y eliminar clientes.</li>
+<li>Listado de clientes o búsqueda individual.</li>
+<li>Sistema para subir fichero de documentación de descarga de responsibilidad de cada cliente.</li>
+<li>Añadir o eliminar tratamientos de depilación láser a clientes. (Ejemplo: sesión simple o bono de 5 sesiones).</li>
+<li>Consumo de sesión de cliente.</li>
+<li>Contador de sesiones disponibles sin consumir de cada tratamiento de cliente.</li>
+<li>Opciones &ldquo;pagado antes de sesión&rdquo; o recordatorio de &ldquo;pago pendiente&rdquo;.</li>
+</ul>
+<p><a href="https://github.com/fernandod1/Laser-hair-removal-app" target="_blank" rel="noopener noreffer">Download script and screenshots</a></p>]]></description>
+</item><item>
+    <title>Covid-19 daily report in Spain</title>
+    <link>https://www.fernando.info/covid-19-spain/</link>
+    <pubDate>Sat, 02 Jan 2021 21:57:40 &#43;0800</pubDate>
+    <author>Author</author>
+    <guid>https://www.fernando.info/covid-19-spain/</guid>
+    <description><![CDATA[<p>PHP script displaying daily reports/stats about Covid-19 virus status in Spain and its states. Data is collected from API of Ministerio de Sanidad of government of Spain.</p>
+<p>Script en PHP que muestra los datos diarios de infectados de Covid-19 en España realizando extrayendo la información de la API proporcionada por el Ministerio de Sanidad del gobierno de España.</p>
+<p><a href="https://covid19espana.herokuapp.com/" target="_blank" rel="noopener noreffer">Demo online</a></p>
+<p><a href="https://github.com/fernandod1/Covid-19-Spain" target="_blank" rel="noopener noreffer">Download script</a></p>]]></description>
 </item></channel>
 </rss>
