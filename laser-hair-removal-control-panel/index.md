@@ -1,16 +1,16 @@
-# Laser hair removal control panel to manage clients threataments
+# Laser hair removal control panel to manage client's treatments
 
-Full PHP script control panel to manage client's database and sessions of laser hair removal threataments in a beauty center.
+Full PHP script control panel to manage client's database and sessions of laser hair removal treatments in a beauty center.
 
 Features:
 
 - Add, edit, remove clients.
 - List all clients or search one client.
-- Upload system of client's disclaimer threatament documents.
-- Add, remove new threatament to client. (Mode just one session or Pack of 5 sessions ("bonus pack")).
+- Upload system of client's disclaimer treatment documents.
+- Add, remove new treatment to client. (Mode just one session or Pack of 5 sessions ("bonus pack")).
 - Consume session of client.
-- Counter of sessions left of each threatament of client.
-- Option "pay before session threatament" or "pending payment" label reminder).
+- Counter of sessions left of each treatment of client.
+- Option "pay before session treatment" or "pending payment" label reminder).
 - Note: script is actually only translated to spanish, sorry.
 
 Script completo en PHP consistente en un panel de administración de clientes de un centro de depilación láser. Permite llevar la administración de los servicios contratados y sesiones consumidas por cada cliente.

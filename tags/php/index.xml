@@ -37,21 +37,30 @@
 <p>Cuando la campaña expira, el enlace personalizado al ser visitado podrá mostrar un mensaje de &ldquo;Campaña finalizada&rdquo; o redirigir el tráfico a otra dirección web.</p>
 <p><a href="https://github.com/fernandod1/Expiring-link-generator" target="_blank" rel="noopener noreffer">Download script and screenshots</a></p>]]></description>
 </item><item>
-    <title>Laser hair removal control panel to manage clients threataments</title>
+    <title>Countries IP block web access</title>
+    <link>https://www.fernando.info/country-ip-block-web-access/</link>
+    <pubDate>Sat, 02 Jan 2021 01:05:40 &#43;0100</pubDate>
+    <author>Author</author>
+    <guid>https://www.fernando.info/country-ip-block-web-access/</guid>
+    <description><![CDATA[<p>PHP script with control panel to block web access from certain countries of your choosing. It uses <a href="http://api.hostip.info">http://api.hostip.info</a> IP Location API.</p>
+<p>Script con panel de control que permite configurar y bloquear el acceso desde determinados países a determinadas páginas web PHP. Hace uso de la API de IPs de paises de <a href="http://api.hostip.info">http://api.hostip.info</a>.</p>
+<p><a href="https://github.com/fernandod1/Country-IP-block-web-access" target="_blank" rel="noopener noreffer">Download script</a></p>]]></description>
+</item><item>
+    <title>Laser hair removal control panel to manage client&#39;s treatments</title>
     <link>https://www.fernando.info/laser-hair-removal-control-panel/</link>
     <pubDate>Sun, 03 Jan 2021 20:07:40 &#43;0100</pubDate>
     <author>Author</author>
     <guid>https://www.fernando.info/laser-hair-removal-control-panel/</guid>
-    <description><![CDATA[<p>Full PHP script control panel to manage client&rsquo;s database and sessions of laser hair removal threataments in a beauty center.</p>
+    <description><![CDATA[<p>Full PHP script control panel to manage client&rsquo;s database and sessions of laser hair removal treatments in a beauty center.</p>
 <p>Features:</p>
 <ul>
 <li>Add, edit, remove clients.</li>
 <li>List all clients or search one client.</li>
-<li>Upload system of client&rsquo;s disclaimer threatament documents.</li>
-<li>Add, remove new threatament to client. (Mode just one session or Pack of 5 sessions (&ldquo;bonus pack&rdquo;)).</li>
+<li>Upload system of client&rsquo;s disclaimer treatment documents.</li>
+<li>Add, remove new treatment to client. (Mode just one session or Pack of 5 sessions (&ldquo;bonus pack&rdquo;)).</li>
 <li>Consume session of client.</li>
-<li>Counter of sessions left of each threatament of client.</li>
-<li>Option &ldquo;pay before session threatament&rdquo; or &ldquo;pending payment&rdquo; label reminder).</li>
+<li>Counter of sessions left of each treatment of client.</li>
+<li>Option &ldquo;pay before session treatment&rdquo; or &ldquo;pending payment&rdquo; label reminder).</li>
 <li>Note: script is actually only translated to spanish, sorry.</li>
 </ul>
 <p>Script completo en PHP consistente en un panel de administración de clientes de un centro de depilación láser. Permite llevar la administración de los servicios contratados y sesiones consumidas por cada cliente.</p>
