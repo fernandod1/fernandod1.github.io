@@ -24,7 +24,7 @@ Características:
 [Online demo](https://loregalo.herokuapp.com)
 
 
-[Download script and screenshots](https://github.com/fernandod1/Fre-ads)
+[Download script and screenshots](https://github.com/fernandod1/Free-ads)
 
 
 
