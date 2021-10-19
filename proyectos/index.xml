@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>We build better &lt;span&gt;products&lt;/span&gt; to help our clients build better &lt;span&gt;companies&lt;/span&gt; on Fernando | Ingeniero de software, desarrollador backend en Málaga, Web, PHP y Python</title>
+    <title>Crear un &lt;span&gt;producto&lt;/span&gt; que cumpla las necesidades del &lt;span&gt;cliente&lt;/span&gt; on Fernando | Ingeniero de software, desarrollador backend en Málaga, Web, PHP y Python</title>
     <link>https://www.fernando.info/proyectos/</link>
-    <description>Recent content in We build better &lt;span&gt;products&lt;/span&gt; to help our clients build better &lt;span&gt;companies&lt;/span&gt; on Fernando | Ingeniero de software, desarrollador backend en Málaga, Web, PHP y Python</description>
+    <description>Recent content in Crear un &lt;span&gt;producto&lt;/span&gt; que cumpla las necesidades del &lt;span&gt;cliente&lt;/span&gt; on Fernando | Ingeniero de software, desarrollador backend en Málaga, Web, PHP y Python</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
-    <lastBuildDate>Mon, 23 Dec 2019 16:48:28 +0600</lastBuildDate><atom:link href="https://www.fernando.info/proyectos/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 03 Oct 2021 16:48:28 +0600</lastBuildDate><atom:link href="https://www.fernando.info/proyectos/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Portal &#39;no lo uso, lo regalo&#39;</title>
       <link>https://www.fernando.info/proyectos/portal-lo-regalo/</link>
