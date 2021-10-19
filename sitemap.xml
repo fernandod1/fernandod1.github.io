@@ -1,51 +1,83 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://www.fernando.info/blog/</loc>
+    <lastmod>2021-10-13T20:17:01+06:00</lastmod>
+  </url>
+  
   <url>
     <loc>https://www.fernando.info/</loc>
-    <lastmod>2021-02-10T15:52:46+01:00</lastmod>
-  </url><url>
-    <loc>https://www.fernando.info/proyectos/lo-regalo/</loc>
-    <lastmod>2021-02-10T15:52:46+01:00</lastmod>
-  </url><url>
-    <loc>https://www.fernando.info/proyectos/depilacion-laser-panel-control/</loc>
-    <lastmod>2021-02-10T15:51:46+01:00</lastmod>
-  </url><url>
-    <loc>https://www.fernando.info/proyectos/coronavirus-reporte-espana/</loc>
-    <lastmod>2021-02-10T15:50:46+01:00</lastmod>
-  </url><url>
-    <loc>https://www.fernando.info/proyectos/reserva-sala-reunion/</loc>
-    <lastmod>2021-02-10T15:49:46+01:00</lastmod>
-  </url><url>
-    <loc>https://www.fernando.info/proyectos/dominios-es-expiracion/</loc>
-    <lastmod>2021-02-10T15:48:46+01:00</lastmod>
-  </url><url>
-    <loc>https://www.fernando.info/proyectos/generador-enlaces-temporales/</loc>
-    <lastmod>2021-02-10T15:47:46+01:00</lastmod>
-  </url><url>
-    <loc>https://www.fernando.info/proyectos/instagram-a-discord/</loc>
-    <lastmod>2021-02-10T15:46:46+01:00</lastmod>
-  </url><url>
-    <loc>https://www.fernando.info/proyectos/descargar-media-de-instagram/</loc>
-    <lastmod>2021-02-10T15:45:46+01:00</lastmod>
-  </url><url>
-    <loc>https://www.fernando.info/proyectos/bloqueo-web-paises/</loc>
-    <lastmod>2021-02-10T15:44:46+01:00</lastmod>
-  </url><url>
-    <loc>https://www.fernando.info/blog/</loc>
-    <lastmod>2019-12-23T20:17:01+06:00</lastmod>
-  </url><url>
+    <lastmod>2021-10-13T20:17:01+06:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://www.fernando.info/contactar/</loc>
-    <lastmod>2019-12-23T20:17:01+06:00</lastmod>
-  </url><url>
+    <lastmod>2021-09-23T20:17:01+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.fernando.info/sobre-mi/</loc>
+    <lastmod>2021-07-12T18:19:33+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.fernando.info/proyectos/portal-lo-regalo/</loc>
+    <lastmod>2021-01-02T01:05:48+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.fernando.info/proyectos/panel-gestion-depilacion/</loc>
+    <lastmod>2021-01-02T01:05:47+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.fernando.info/proyectos/covid19-reporte/</loc>
+    <lastmod>2021-01-02T01:05:46+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.fernando.info/proyectos/reserva-sala/</loc>
+    <lastmod>2021-01-02T01:05:45+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.fernando.info/proyectos/monitoriza-expiracion-es/</loc>
+    <lastmod>2021-01-02T01:05:44+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.fernando.info/proyectos/genera-enlaces-temporales/</loc>
+    <lastmod>2021-01-02T01:05:43+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.fernando.info/proyectos/instagram-discord/</loc>
+    <lastmod>2021-01-02T01:05:42+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.fernando.info/proyectos/instagram-descargar/</loc>
+    <lastmod>2021-01-02T01:05:41+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.fernando.info/proyectos/bloqueo-ip-web/</loc>
+    <lastmod>2021-01-02T01:05:40+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://www.fernando.info/proyectos/</loc>
     <lastmod>2019-12-23T16:48:28+06:00</lastmod>
-  </url><url>
-    <loc>https://www.fernando.info/sobre-mi/</loc>
-    <lastmod>2018-07-12T18:19:33+06:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://www.fernando.info/categories/</loc>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://www.fernando.info/tags/</loc>
   </url>
+  
 </urlset>
