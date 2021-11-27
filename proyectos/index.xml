@@ -8,6 +8,34 @@
     <language>es</language>
     <lastBuildDate>Sun, 03 Oct 2021 16:48:28 +0600</lastBuildDate><atom:link href="https://www.fernando.info/proyectos/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Oído Cocina. Comandas en tiempo real.</title>
+      <link>https://www.fernando.info/proyectos/pedidos-restaurante/</link>
+      <pubDate>Sun, 02 May 2021 01:05:45 +0100</pubDate>
+      
+      <guid>https://www.fernando.info/proyectos/pedidos-restaurante/</guid>
+      <description>&lt;p&gt;Aplicación web online desarrollada en PHP utilizando el framework Laravel para la gestión de pedidos a cocina de un restaurante en tiempo real. Permite, desde un panel web, la comunicación en tiempo real entre cocineros y camareros sobre estado comandas. Características principales:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Sistema de registro e identificación de trabajadores del restaurante.&lt;/li&gt;
+&lt;li&gt;Tres roles operativos: 
+Administador: control total sobre cuentas de trabadores registrados, estado de cuenta activa/desactivada y tipo cuenta (administrador, camarero, cocinero).
+Camarero: operativa sobre productos y stock, toma de comandas y cambio de estados &amp;ldquo;Anotar pedido-&amp;gt;Pendiente&amp;rdquo; o &amp;ldquo;Preparado-&amp;gt;Entregado&amp;rdquo;.
+Cocinero: operativa sobre cambio de estado de pedido de Pendiente-&amp;gt;Preparado y cambio de estado de producto a &amp;ldquo;no stock&amp;rdquo;.&lt;/li&gt;
+&lt;li&gt;Sistema de notificaciones en tiempo real utilizando websockets mediante ventanas emergentes para avisar sobre nuevos pedidos a cocineros o avisar a camareros cuando el pedido está listo en cocina.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/fernandod1/restaurant-orders&#34;&gt;Capturas de pantalla y descargar&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;English:&lt;/p&gt;
+&lt;p&gt;Online web application developed in PHP using Laravel framework for managing real-time kitchen orders in a restaurant. It allows, through a web panel, real-time communication between chefs and waiters about the status of orders. Main features:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;System of registration and identification of restaurant workers.&lt;/li&gt;
+&lt;li&gt;Three operational roles:
+Administrator: absolute control over registered worker accounts, active / deactivated account status and account type (administrator, waiter, chef).
+Waiter: operation on products and stock, taking orders and change of status &amp;ldquo;Annotate order -&amp;gt; Pending&amp;rdquo; or &amp;ldquo;Ready -&amp;gt; Delivered&amp;rdquo;.
+Chef: operation on change of order status Pending -&amp;gt; Ready and change of product status to &amp;ldquo;no stock&amp;rdquo;.&lt;/li&gt;
+&lt;li&gt;Real-time notification system using websockets through pop-up windows to notify chefs about new orders or notify waiters when the order is ready in the kitchen.&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    
+    <item>
       <title>Portal &#39;no lo uso, lo regalo&#39;</title>
       <link>https://www.fernando.info/proyectos/portal-lo-regalo/</link>
       <pubDate>Sat, 02 Jan 2021 01:05:48 +0100</pubDate>

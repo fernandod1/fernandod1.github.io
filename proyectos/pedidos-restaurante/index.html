@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="es"><head>
   <meta charset="utf-8" />
-  <title>Servicios de desarrollo de software, sitios web y scripts en Málaga.</title>
+  <title>Oído Cocina. Comandas en tiempo real.</title>
 
   <!-- mobile responsive meta -->
   <meta name="viewport" content="width=device-width, initial-scale=1" />
@@ -89,114 +89,42 @@
 </nav>
 <main>
 
-<section class="site-project-header">
-  <div class="container">
-    <div class="row align-items-center">
-      <div class="col-lg-8">
-        <div class="site-project-header-content">
-          <h1>
-            Crear un <span>producto</span> que cumpla las necesidades del <span>cliente</span>
-          </h1>
-        </div>
-      </div>
-      <div class="col-lg-4">
-        <a href="#project" class="site-project-header-action scroll-to">
-          <span>Ver más</span>
-          <img src="https://www.fernando.info/images/arrow-down.svg" alt="arrow-down">
-        </a>
-      </div>
-    </div>
-  </div>
-</section>
-
-<section class="site-project" id="project">
+<section class="site-project-single-section">
   <div class="container">
     <div class="row">
-      
-      <div class="col-lg-6 col-md-10 mx-auto">
-        <div class="site-project-item">
-          <div class="site-project-item-thumb">
-            <a href="https://www.fernando.info/proyectos/reserva-sala/" class="read-more">
-              <img src="https://www.fernando.info/images/projects/booking-room.jpg" alt="project-thumb">
-            </a>
-          </div>
-          <div class="site-project-item-content">
-            <span>PHP</span>
-            <h3>Reserva sala de reunión</h3>
-          </div>
-        </div>
-      </div>
-      
-      <div class="col-lg-6 col-md-10 mx-auto">
-        <div class="site-project-item">
-          <div class="site-project-item-thumb">
-            <a href="https://www.fernando.info/proyectos/monitoriza-expiracion-es/" class="read-more">
-              <img src="https://www.fernando.info/images/projects/domains-es.jpg" alt="project-thumb">
-            </a>
-          </div>
-          <div class="site-project-item-content">
-            <span>Python</span>
-            <h3>Monitoriza expiración dominio.ES</h3>
-          </div>
-        </div>
-      </div>
-      
-      <div class="col-lg-6 col-md-10 mx-auto">
-        <div class="site-project-item">
-          <div class="site-project-item-thumb">
-            <a href="https://www.fernando.info/proyectos/genera-enlaces-temporales/" class="read-more">
-              <img src="https://www.fernando.info/images/projects/temporary-links.jpg" alt="project-thumb">
-            </a>
-          </div>
-          <div class="site-project-item-content">
-            <span>PHP</span>
-            <h3>Genera enlaces temporales</h3>
-          </div>
-        </div>
-      </div>
-      
-      <div class="col-lg-6 col-md-10 mx-auto">
-        <div class="site-project-item">
-          <div class="site-project-item-thumb">
-            <a href="https://www.fernando.info/proyectos/instagram-discord/" class="read-more">
-              <img src="https://www.fernando.info/images/projects/instagram-discord.jpg" alt="project-thumb">
-            </a>
-          </div>
-          <div class="site-project-item-content">
-            <span>Python</span>
-            <h3>Instagram a Discord envío</h3>
-          </div>
-        </div>
-      </div>
-      
-      <div class="col-12">
-        <div class="site-project-pagination">
-          
-<ul class="pagination">
-  <li class="page-item">
-    <a href="/proyectos/" class="page-link" aria-label="First"><span aria-hidden="true">&laquo;&laquo;</span></a>
-  </li>
-  <li class="page-item">
-    <a href="/proyectos/" class="page-link" aria-label="Previous"><span aria-hidden="true">&laquo;</span></a>
-  </li>
-  <li class="page-item">
-    <a class="page-link" href="/proyectos/">1</a>
-  </li>
-  <li class="page-item active">
-    <a class="page-link" href="/proyectos/page/2/">2</a>
-  </li>
-  <li class="page-item">
-    <a class="page-link" href="/proyectos/page/3/">3</a>
-  </li>
-  <li class="page-item">
-    <a href="/proyectos/page/3/" class="page-link" aria-label="Next"><span aria-hidden="true">&raquo;</span></a>
-  </li>
-  <li class="page-item">
-    <a href="/proyectos/page/3/" class="page-link" aria-label="Last"><span aria-hidden="true">&raquo;&raquo;</span></a>
-  </li>
+      <div class="col-lg-8 mx-auto">
+        <div class="site-project-single">
+          <h1>
+            Oído Cocina. Comandas en tiempo real.
+          </h1>
+          <div class="site-project-single-description">
+            <p>Aplicación web online desarrollada en PHP utilizando el framework Laravel para la gestión de pedidos a cocina de un restaurante en tiempo real. Permite, desde un panel web, la comunicación en tiempo real entre cocineros y camareros sobre estado comandas. Características principales:</p>
+<ul>
+<li>Sistema de registro e identificación de trabajadores del restaurante.</li>
+<li>Tres roles operativos: 
+Administador: control total sobre cuentas de trabadores registrados, estado de cuenta activa/desactivada y tipo cuenta (administrador, camarero, cocinero).
+Camarero: operativa sobre productos y stock, toma de comandas y cambio de estados &ldquo;Anotar pedido-&gt;Pendiente&rdquo; o &ldquo;Preparado-&gt;Entregado&rdquo;.
+Cocinero: operativa sobre cambio de estado de pedido de Pendiente-&gt;Preparado y cambio de estado de producto a &ldquo;no stock&rdquo;.</li>
+<li>Sistema de notificaciones en tiempo real utilizando websockets mediante ventanas emergentes para avisar sobre nuevos pedidos a cocineros o avisar a camareros cuando el pedido está listo en cocina.</li>
 </ul>
-
-
+<p><a href="https://github.com/fernandod1/restaurant-orders">Capturas de pantalla y descargar</a></p>
+<p>English:</p>
+<p>Online web application developed in PHP using Laravel framework for managing real-time kitchen orders in a restaurant. It allows, through a web panel, real-time communication between chefs and waiters about the status of orders. Main features:</p>
+<ul>
+<li>System of registration and identification of restaurant workers.</li>
+<li>Three operational roles:
+Administrator: absolute control over registered worker accounts, active / deactivated account status and account type (administrator, waiter, chef).
+Waiter: operation on products and stock, taking orders and change of status &ldquo;Annotate order -&gt; Pending&rdquo; or &ldquo;Ready -&gt; Delivered&rdquo;.
+Chef: operation on change of order status Pending -&gt; Ready and change of product status to &ldquo;no stock&rdquo;.</li>
+<li>Real-time notification system using websockets through pop-up windows to notify chefs about new orders or notify waiters when the order is ready in the kitchen.</li>
+</ul>
+          </div>
+          <div class="site-project-single-image">
+            
+            <img src="https://www.fernando.info/images/projects/restaurant-orders.jpg" alt="project image">
+            
+          </div>
+          
         </div>
       </div>
     </div>
