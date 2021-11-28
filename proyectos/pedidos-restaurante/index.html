@@ -23,6 +23,15 @@
   
   <link rel="shortcut icon" href="https://www.fernando.info/images/favicon.png" type="image/x-icon" />
   <link rel="icon" href="https://www.fernando.info/images/favicon.ico" type="image/x-icon" />
+  
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-GR9F5336M7"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-GR9F5336M7');
+</script>
 </head><body><nav class="navbar navbar-expand-lg site-navigation">
   <div class="container">
     <a class="navbar-brand" href="https://www.fernando.info/">
@@ -98,26 +107,34 @@
             Oído Cocina. Comandas en tiempo real.
           </h1>
           <div class="site-project-single-description">
-            <p>Aplicación web online desarrollada en PHP utilizando el framework Laravel para la gestión de pedidos a cocina de un restaurante en tiempo real. Permite, desde un panel web, la comunicación en tiempo real entre cocineros y camareros sobre estado comandas. Características principales:</p>
-<ul>
+            <p>Aplicación web online desarrollada en PHP utilizando el framework Laravel para la gestión de pedidos a cocina de un restaurante en tiempo real (websockets Pusher.com). Permite, desde un panel web, la comunicación en tiempo real entre cocineros y camareros sobre estado comandas. Características principales:</p>
+<ol>
 <li>Sistema de registro e identificación de trabajadores del restaurante.</li>
-<li>Tres roles operativos: 
-Administador: control total sobre cuentas de trabadores registrados, estado de cuenta activa/desactivada y tipo cuenta (administrador, camarero, cocinero).
-Camarero: operativa sobre productos y stock, toma de comandas y cambio de estados &ldquo;Anotar pedido-&gt;Pendiente&rdquo; o &ldquo;Preparado-&gt;Entregado&rdquo;.
-Cocinero: operativa sobre cambio de estado de pedido de Pendiente-&gt;Preparado y cambio de estado de producto a &ldquo;no stock&rdquo;.</li>
-<li>Sistema de notificaciones en tiempo real utilizando websockets mediante ventanas emergentes para avisar sobre nuevos pedidos a cocineros o avisar a camareros cuando el pedido está listo en cocina.</li>
+<li>Tres roles operativos:</li>
+</ol>
+<ul>
+<li>Administador: control total sobre cuentas de trabadores registrados, estado de cuenta activa/desactivada y tipo cuenta (administrador, camarero, cocinero).</li>
+<li>Camarero: operativa sobre productos y stock, toma de comandas y cambio de estados &ldquo;Anotar pedido-&gt;Pendiente&rdquo; o &ldquo;Preparado-&gt;Entregado&rdquo;.</li>
+<li>Cocinero: operativa sobre cambio de estado de pedido de Pendiente-&gt;Preparado y cambio de estado de producto a &ldquo;no stock&rdquo;.</li>
 </ul>
+<ol start="3">
+<li>Sistema de notificaciones en tiempo real utilizando websockets mediante ventanas emergentes para avisar sobre nuevos pedidos a cocineros o avisar a camareros cuando el pedido está listo en cocina.</li>
+</ol>
 <p><a href="https://github.com/fernandod1/restaurant-orders">Capturas de pantalla y descargar</a></p>
 <p>English:</p>
 <p>Online web application developed in PHP using Laravel framework for managing real-time kitchen orders in a restaurant. It allows, through a web panel, real-time communication between chefs and waiters about the status of orders. Main features:</p>
-<ul>
+<ol>
 <li>System of registration and identification of restaurant workers.</li>
-<li>Three operational roles:
-Administrator: absolute control over registered worker accounts, active / deactivated account status and account type (administrator, waiter, chef).
-Waiter: operation on products and stock, taking orders and change of status &ldquo;Annotate order -&gt; Pending&rdquo; or &ldquo;Ready -&gt; Delivered&rdquo;.
-Chef: operation on change of order status Pending -&gt; Ready and change of product status to &ldquo;no stock&rdquo;.</li>
-<li>Real-time notification system using websockets through pop-up windows to notify chefs about new orders or notify waiters when the order is ready in the kitchen.</li>
+<li>Three operational roles:</li>
+</ol>
+<ul>
+<li>Administrator: absolute control over registered worker accounts, active / deactivated account status and account type (administrator, waiter, chef).</li>
+<li>Waiter: operation on products and stock, taking orders and change of status &ldquo;Annotate order -&gt; Pending&rdquo; or &ldquo;Ready -&gt; Delivered&rdquo;.</li>
+<li>Chef: operation on change of order status Pending -&gt; Ready and change of product status to &ldquo;no stock&rdquo;.</li>
 </ul>
+<ol start="3">
+<li>Real-time notification system using websockets through pop-up windows to notify chefs about new orders or notify waiters when the order is ready in the kitchen.</li>
+</ol>
           </div>
           <div class="site-project-single-image">
             
