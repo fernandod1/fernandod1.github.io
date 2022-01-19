@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blog en construcción on Fernando | Ingeniero de software, desarrollador backend en Málaga, Web, PHP y Python</title>
+    <link>https://www.fernando.info/blog/</link>
+    <description>Recent content in Blog en construcción on Fernando | Ingeniero de software, desarrollador backend en Málaga, Web, PHP y Python</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Wed, 13 Oct 2021 20:17:01 +0600</lastBuildDate><atom:link href="https://www.fernando.info/blog/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>
