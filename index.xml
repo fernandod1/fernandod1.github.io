@@ -6,7 +6,46 @@
     <description>Recent content on Fernando | Ingeniero de software, desarrollador backend en Málaga, Web, PHP y Python</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
-    <lastBuildDate>Mon, 10 Jan 2022 01:05:46 +0100</lastBuildDate><atom:link href="https://www.fernando.info/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 11 Jan 2022 01:06:46 +0100</lastBuildDate><atom:link href="https://www.fernando.info/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Auditoría de equipos informáticos.</title>
+      <link>https://www.fernando.info/proyectos/auditoria-pc/</link>
+      <pubDate>Tue, 11 Jan 2022 01:06:46 +0100</pubDate>
+      
+      <guid>https://www.fernando.info/proyectos/auditoria-pc/</guid>
+      <description>&lt;p&gt;Desarrollo backend y frontend de aplicación web en PHP y Mysql utilizando el framework de Laravel. Objetivo: crear un sistema que permita administrar la auditoría de equipos informáticos de empresas clientes y generar reporte web y en fichero pdf de los equipos analizados. Características:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Panel de administración con funcionalidades:&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;Panel de administración generado basado en CRUDs, gráficas Chart.js y plantilla Bootstrap AdminLTE.&lt;/li&gt;
+&lt;li&gt;Tres niveles de usuarios con privilegios diferenciados de acceso, creación y consulta de informes de auditoría (administrador, auditor, otro).&lt;/li&gt;
+&lt;li&gt;Crear/modificar/eliminar nueva cuenta de administrador/auditor.&lt;/li&gt;
+&lt;li&gt;Crear/modificar/eliminar opciones de componentes de equipos informáticos para auditar (Ej. CPU Intel Core I9 7800 Mhz) y asignar una puntuación de referencia.&lt;/li&gt;
+&lt;li&gt;Crear/modificar/eliminar empresas de clientes.&lt;/li&gt;
+&lt;li&gt;Crear/modificar/eliminar equipo informático de cliente a auditar.&lt;/li&gt;
+&lt;li&gt;Generar informe de auditoría de equipos informaticos de empresas clientes. Posibilidad de descargar en formato pdf.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;http://140.238.172.174/audit-pc/&#34;&gt;Ver demo online&lt;/a&gt;&lt;/strong&gt; 
+(usuario: &lt;em&gt;&lt;a href=&#34;mailto:admin@admin.com&#34;&gt;admin@admin.com&lt;/a&gt;&lt;/em&gt; - 
+contraseña: &lt;em&gt;admin&lt;/em&gt;)&lt;/p&gt;
+&lt;h5 id=&#34;english&#34;&gt;English:&lt;/h5&gt;
+&lt;p&gt;Backend and frontend development of web application in PHP and Mysql using the Laravel framework. Objective:  create a system that allows to audit computer&amp;rsquo;s equipment of companies  generating a web report and a pdf file of equipments analyzed. Characteristics:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Administration panel with functionalities:&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;Administration panel generated based on CRUDs and Bootstrap AdminLTE template.&lt;/li&gt;
+&lt;li&gt;Three levels of users with differentiated privileges for access, creation and consultation of audit reports (administrator, auditor, other).&lt;/li&gt;
+&lt;li&gt;Create/modify/delete new administrator/auditor account.&lt;/li&gt;
+&lt;li&gt;Create/modify/delete IT component options to audit (eg Intel Core I9 7800 Mhz CPU) and assign a benchmark score.&lt;/li&gt;
+&lt;li&gt;Create/modify/delete companies.&lt;/li&gt;
+&lt;li&gt;Create/modify/delete companies computer equipment to be audited.&lt;/li&gt;
+&lt;li&gt;Generate audit report of computer equipment of companies. Possibility to download in pdf format.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h5 id=&#34;capturas-de-pantalla--screenshots&#34;&gt;Capturas de pantalla / Screenshots:&lt;/h5&gt;</description>
+    </item>
+    
     <item>
       <title>Velario virtual. Enciende tu vela.</title>
       <link>https://www.fernando.info/proyectos/velario-virtual/</link>
@@ -30,6 +69,7 @@
 &lt;li&gt;Crear una vela de campaña si está habilitada (tiempo de consumo: el configurado en panel de administración).&lt;/li&gt;
 &lt;li&gt;Subir velas a primeras posiciones (re-encender vela apagada).&lt;/li&gt;
 &lt;li&gt;Posibilidad de enviar enlace de vela creada mediante e-mail a otra persona.&lt;/li&gt;
+&lt;li&gt;Funcionalidad multi-lenguaje (español e inglés actualmente).&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;&lt;strong&gt;&lt;a href=&#34;http://140.238.172.174/lit-candles/&#34;&gt;Demo online&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
 &lt;h5 id=&#34;english&#34;&gt;English:&lt;/h5&gt;
@@ -50,18 +90,9 @@
 &lt;li&gt;Create a campaign candle if it is enabled (consumption period: configured in the administration panel).&lt;/li&gt;
 &lt;li&gt;Move candles to first position listing (re-light extinguished candle).&lt;/li&gt;
 &lt;li&gt;Possibility of sending by email a candle link created to another person.&lt;/li&gt;
+&lt;li&gt;Multi-language feature.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h5 id=&#34;capturas-de-pantalla--screenshots&#34;&gt;Capturas de pantalla / Screenshots:&lt;/h5&gt;
-&lt;p&gt;Página principal:
-&lt;img src=&#34;https://www.fernando.info/images/screenshots/velario-virtual-01.png&#34; alt=&#34;Página principal&#34;&gt;&lt;/p&gt;
-&lt;p&gt;Formulario crear vela:
-&lt;img src=&#34;https://www.fernando.info/images/screenshots/velario-virtual-02.png&#34; alt=&#34;Formulario crear vela&#34;&gt;&lt;/p&gt;
-&lt;p&gt;Detalles de vela:
-&lt;img src=&#34;https://www.fernando.info/images/screenshots/velario-virtual-03.png&#34; alt=&#34;Detalles de vela&#34;&gt;&lt;/p&gt;
-&lt;p&gt;Administrar vela:
-&lt;img src=&#34;https://www.fernando.info/images/screenshots/velario-virtual-04.png&#34; alt=&#34;Administrar vela&#34;&gt;&lt;/p&gt;
-&lt;p&gt;Administrar campañas:
-&lt;img src=&#34;https://www.fernando.info/images/screenshots/velario-virtual-05.png&#34; alt=&#34;Administrar campañas&#34;&gt;&lt;/p&gt;</description>
+&lt;h5 id=&#34;capturas-de-pantalla--screenshots&#34;&gt;Capturas de pantalla / Screenshots:&lt;/h5&gt;</description>
     </item>
     
     <item>
@@ -131,18 +162,6 @@
     </item>
     
     <item>
-      <title>Ofertas Aliexpress en Telegram</title>
-      <link>https://www.fernando.info/proyectos/aliexpress-telegram-bot/</link>
-      <pubDate>Sat, 02 Jan 2021 01:05:47 +0100</pubDate>
-      
-      <guid>https://www.fernando.info/proyectos/aliexpress-telegram-bot/</guid>
-      <description>&lt;p&gt;Script creado Python que permite leer cada uno de los enlaces de ofertas de Aliexpress añadidos a un fichero de tipo Excel y los publicarlos en un canal de Telegram propio a traves de un bot creado con el formato que se muestra en la imagen inferior. Debe crearse en el servidor una tarea cron para deternimar la frecuencia de publicación de nuevas ofertas.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://github.com/fernandod1/Country-IP-block-web-access&#34;&gt;Ver capturas de pantalla y descargar&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
-&lt;h5 id=&#34;english&#34;&gt;English:&lt;/h5&gt;
-&lt;p&gt;Python script that reads Aliexpress offers urls from a Excel filename and post then in a Telegram channel using a bot. You can see post design in image below. You need to create a cronjob in server to determine publishing frecuency of new offers.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
       <title>Panel de gestión depilación</title>
       <link>https://www.fernando.info/proyectos/panel-gestion-depilacion/</link>
       <pubDate>Sat, 02 Jan 2021 01:05:47 +0100</pubDate>
@@ -186,6 +205,18 @@
 &lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://github.com/fernandod1/Covid-19-Spain&#34;&gt;Descargar&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
 &lt;h5 id=&#34;english&#34;&gt;English:&lt;/h5&gt;
 &lt;p&gt;PHP script displaying daily reports/stats about Covid-19 virus status in Spain and its states. Data is collected from API of Ministerio de Sanidad of government of Spain.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Ofertas Aliexpress en Telegram</title>
+      <link>https://www.fernando.info/proyectos/aliexpress-telegram-bot/</link>
+      <pubDate>Sat, 02 Jan 2021 01:05:46 +0100</pubDate>
+      
+      <guid>https://www.fernando.info/proyectos/aliexpress-telegram-bot/</guid>
+      <description>&lt;p&gt;Script creado Python que permite leer cada uno de los enlaces de ofertas de Aliexpress añadidos a un fichero de tipo Excel y los publicarlos en un canal de Telegram propio a traves de un bot creado con el formato que se muestra en la imagen inferior. Debe crearse en el servidor una tarea cron para deternimar la frecuencia de publicación de nuevas ofertas.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://github.com/fernandod1/Aliexpress-telegram&#34;&gt;Ver capturas de pantalla y descargar&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;h5 id=&#34;english&#34;&gt;English:&lt;/h5&gt;
+&lt;p&gt;Python script that reads Aliexpress offers urls from a Excel filename and post then in a Telegram channel using a bot. You can see post design in image below. You need to create a cronjob in server to determine publishing frecuency of new offers.&lt;/p&gt;</description>
     </item>
     
     <item>
