@@ -3,12 +3,17 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://www.fernando.info/proyectos/auditoria-pc/</loc>
-    <lastmod>2022-01-11T01:06:46+01:00</lastmod>
+    <loc>https://www.fernando.info/</loc>
+    <lastmod>2022-01-12T01:05:46+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://www.fernando.info/</loc>
+    <loc>https://www.fernando.info/proyectos/safe-room/</loc>
+    <lastmod>2022-01-12T01:05:46+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.fernando.info/proyectos/auditoria-pc/</loc>
     <lastmod>2022-01-11T01:06:46+01:00</lastmod>
   </url>
   
@@ -43,7 +48,7 @@
   </url>
   
   <url>
-    <loc>https://www.fernando.info/proyectos/portal-lo-regalo/</loc>
+    <loc>https://www.fernando.info/proyectos/anuncios-lo-regalo/</loc>
     <lastmod>2021-01-02T01:05:48+01:00</lastmod>
   </url>
   

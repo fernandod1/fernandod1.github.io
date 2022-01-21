@@ -8,7 +8,91 @@
     <language>es</language>
     <lastBuildDate>Sun, 03 Oct 2021 16:48:28 +0600</lastBuildDate><atom:link href="https://www.fernando.info/proyectos/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Auditoría de equipos informáticos.</title>
+      <title>Salas saludables. Monitorización del nivel de C02</title>
+      <link>https://www.fernando.info/proyectos/safe-room/</link>
+      <pubDate>Wed, 12 Jan 2022 01:05:46 +0100</pubDate>
+      
+      <guid>https://www.fernando.info/proyectos/safe-room/</guid>
+      <description>&lt;p&gt;&lt;em&gt;SafeRoom&lt;/em&gt; es uno de mis proyectos personales más completos al trabajar simultáneamente con tecnologías variadas tanto a nivel de hardware como a nivel de software.&lt;/p&gt;
+&lt;h5 id=&#34;resumen&#34;&gt;Resumen:&lt;/h5&gt;
+&lt;p&gt;Se ha desarrollado un sistema de monitorización que consta de uno o
+varios dispositivos sensores del nivel de concentración de CO2 y ocupación en
+salas de interior. Los datos medidos por el dispositivo instalado en una sala,
+son enviados a un servidor en internet y almacenados en una base de datos. El
+usuario tiene acceso en tiempo real a las mediciones e historial de las salas a
+través de una aplicación web creada y accesible desde la dirección:
+&lt;a href=&#34;https://www.saferoom.es&#34;&gt;https://www.saferoom.es&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Ante un nivel de concentración de CO2 superior a un límite establecido,
+el sistema desarrollado permite notificar la alerta mediante correo electrónico o
+a través de servicio de mensajería de teléfono móvil para que puedan tomarse
+medidas correctoras.&lt;/p&gt;
+&lt;h5 id=&#34;características&#34;&gt;Características:&lt;/h5&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;Dispositivos de monitorización&lt;/strong&gt;:&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;Hardware basado en sistema embebido Raspberry Pi4, sensor de CO2 MH-Z19b y otros componentes (pantalla LCD, cámara, zumbador sonoro, etc.).&lt;/li&gt;
+&lt;li&gt;Desarrollados scripts basado en Python para dotar de funcionalidad al hardware y transmitir/recibir datos desde el dispositivo monitor al servidor.&lt;/li&gt;
+&lt;li&gt;Protocolo de comunicación IoT MQTT.&lt;/li&gt;
+&lt;li&gt;Dos modos de funcionamiento:
+&lt;ul&gt;
+&lt;li&gt;Manual: configurando un umbral de concentración de C02 máximo tolerable.&lt;/li&gt;
+&lt;li&gt;Automático (Modo ACH): el dispositivo determina el total de personas en una sala utilizando la cámara y software basado en Deep Learning (Keras y TensorFlow), y según el nivel ACH objetivo
+(ACH = tasa de renovación de aire por hora), determina el umbral de concentración de C02 máximo tolerable en cada momento.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ol start=&#34;2&#34;&gt;
+&lt;li&gt;&lt;strong&gt;Servidor&lt;/strong&gt;:&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;Instalado servidor y cliente MQTT para comunicación con disponisitos de monitorización.&lt;/li&gt;
+&lt;li&gt;Instalado software auxiliar (Servidor Apache, PHP, base de datos MySQL).&lt;/li&gt;
+&lt;li&gt;Desarrollado software basado en Python (scripts) que soporta las comunicaciones MQTT con dispositivos y con la aplicación web.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ol start=&#34;3&#34;&gt;
+&lt;li&gt;&lt;strong&gt;Aplicación web&lt;/strong&gt; (&lt;em&gt;SafeRoom&lt;/em&gt;):&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;Desarrollada aplicación web en PHP, MySQL y haciendo uso del framework de Laravel.&lt;/li&gt;
+&lt;li&gt;Características:
+&lt;ul&gt;
+&lt;li&gt;Panel de adminitración donde activar/desactivar/consultar cuentas de empresas que utilicen el servicio.&lt;/li&gt;
+&lt;li&gt;Panel de empresas:
+&lt;ul&gt;
+&lt;li&gt;Registro e identificación.&lt;/li&gt;
+&lt;li&gt;Vincular nuevos dispositivos de monitorización.&lt;/li&gt;
+&lt;li&gt;Configurar modo de notificaciones de alertas (correo-e o mensajería móvil).&lt;/li&gt;
+&lt;li&gt;Consultar estadísticas en tiempo de real.&lt;/li&gt;
+&lt;li&gt;Consultar historial de mediciones.&lt;/li&gt;
+&lt;li&gt;Consultar historial de alertas.&lt;/li&gt;
+&lt;li&gt;Modificar configuración de dispositivos.&lt;/li&gt;
+&lt;li&gt;Eliminar dispositivos del panel de monitorización.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Puedes leer el siguiente documento para obtener más detalles:&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://www.fernando.info/documents/saferoom-presentation.pdf&#34;&gt;Ver detalles del proyecto SafeRoom&lt;/a&gt;&lt;/strong&gt; (pdf)&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://www.saferoom.es&#34;&gt;Ver Demo online&lt;/a&gt;&lt;/strong&gt; 
+(usuario: &lt;em&gt;&lt;a href=&#34;mailto:demo@saferoom.es&#34;&gt;demo@saferoom.es&lt;/a&gt;&lt;/em&gt; - 
+contraseña: &lt;em&gt;demo&lt;/em&gt;)&lt;/p&gt;
+&lt;h5 id=&#34;english&#34;&gt;English:&lt;/h5&gt;
+&lt;p&gt;A monitoring device has been deployed to estimate the CO2
+concentration as well to track the occupancy in indoor environments. Data
+measured by the device installed in a room is sent to an internet server and
+stored in a database. Remote users have real-time access to the
+measurements and track records of the rooms through a web application
+created and accessible from the address: &lt;a href=&#34;https://www.saferoom.es&#34;&gt;https://www.saferoom.es&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;When concentration of CO2 measure is higher than an pre-established
+threshold, system allows sending alert notification to an e-mail account or
+mobile phone message system so that corrective actions can be taken.&lt;/p&gt;
+&lt;h5 id=&#34;capturas-de-pantalla--screenshots&#34;&gt;Capturas de pantalla / Screenshots:&lt;/h5&gt;</description>
+    </item>
+    
+    <item>
+      <title>Auditoría de equipos informáticos</title>
       <link>https://www.fernando.info/proyectos/auditoria-pc/</link>
       <pubDate>Tue, 11 Jan 2022 01:06:46 +0100</pubDate>
       
@@ -96,7 +180,7 @@ contraseña: &lt;em&gt;admin&lt;/em&gt;)&lt;/p&gt;
     </item>
     
     <item>
-      <title>Oído Cocina. Comandas en tiempo real.</title>
+      <title>Comandas de cocina en tiempo real.</title>
       <link>https://www.fernando.info/proyectos/pedidos-restaurante/</link>
       <pubDate>Sun, 02 May 2021 01:05:45 +0100</pubDate>
       
@@ -132,11 +216,11 @@ contraseña: &lt;em&gt;admin&lt;/em&gt;)&lt;/p&gt;
     </item>
     
     <item>
-      <title>Portal &#39;no lo uso, lo regalo&#39;</title>
-      <link>https://www.fernando.info/proyectos/portal-lo-regalo/</link>
+      <title>Anuncios &#39;no lo uso, lo regalo&#39;</title>
+      <link>https://www.fernando.info/proyectos/anuncios-lo-regalo/</link>
       <pubDate>Sat, 02 Jan 2021 01:05:48 +0100</pubDate>
       
-      <guid>https://www.fernando.info/proyectos/portal-lo-regalo/</guid>
+      <guid>https://www.fernando.info/proyectos/anuncios-lo-regalo/</guid>
       <description>&lt;p&gt;Proyecto desarrollado en PHP utilizando el framework de Laravel de anuncios de objetos que ya no se utilizan y se ofrecen como regalo a otros usuarios que lo puedan necesitar. “Quiero regalar algo… que ya no necesito y que puede ser útil para otra persona.”&lt;/p&gt;
 &lt;p&gt;Características:&lt;/p&gt;
 &lt;ul&gt;
@@ -214,7 +298,7 @@ contraseña: &lt;em&gt;admin&lt;/em&gt;)&lt;/p&gt;
       
       <guid>https://www.fernando.info/proyectos/aliexpress-telegram-bot/</guid>
       <description>&lt;p&gt;Script creado Python que permite leer cada uno de los enlaces de ofertas de Aliexpress añadidos a un fichero de tipo Excel y los publicarlos en un canal de Telegram propio a traves de un bot creado con el formato que se muestra en la imagen inferior. Debe crearse en el servidor una tarea cron para deternimar la frecuencia de publicación de nuevas ofertas.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://github.com/fernandod1/Aliexpress-telegram&#34;&gt;Ver capturas de pantalla y descargar&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://github.com/fernandod1/Aliexpress-telegram&#34;&gt;Capturas de pantalla y descargar&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
 &lt;h5 id=&#34;english&#34;&gt;English:&lt;/h5&gt;
 &lt;p&gt;Python script that reads Aliexpress offers urls from a Excel filename and post then in a Telegram channel using a bot. You can see post design in image below. You need to create a cronjob in server to determine publishing frecuency of new offers.&lt;/p&gt;</description>
     </item>
@@ -305,7 +389,7 @@ contraseña: &lt;em&gt;admin&lt;/em&gt;)&lt;/p&gt;
       
       <guid>https://www.fernando.info/proyectos/bloqueo-ip-web/</guid>
       <description>&lt;p&gt;Script con panel de control que permite configurar y bloquear el acceso desde determinados países a determinadas páginas web PHP. Hace uso de la API de IPs de paises de &lt;a href=&#34;http://api.hostip.info&#34;&gt;http://api.hostip.info&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://github.com/fernandod1/Country-IP-block-web-access&#34;&gt;Ver capturas de pantalla y descargar&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://github.com/fernandod1/Country-IP-block-web-access&#34;&gt;Capturas de pantalla y descargar&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
 &lt;h5 id=&#34;english&#34;&gt;English:&lt;/h5&gt;
 &lt;p&gt;PHP script with control panel to block web access from certain countries that you choose. It uses &lt;a href=&#34;http://api.hostip.info&#34;&gt;http://api.hostip.info&lt;/a&gt; IP Location API.&lt;/p&gt;</description>
     </item>

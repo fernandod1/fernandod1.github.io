@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="es"><head>
   <meta charset="utf-8" />
-  <title>Auditoría de equipos informáticos</title>
+  <title>Salas saludables. Monitorización del nivel de C02</title>
 
   <!-- mobile responsive meta -->
   <meta name="viewport" content="width=device-width, initial-scale=1" />
@@ -104,81 +104,112 @@
       <div class="col-lg-8 mx-auto">
         <div class="site-project-single">
           <h1>
-            Auditoría de equipos informáticos
+            Salas saludables. Monitorización del nivel de C02
           </h1>
           <div class="site-project-single-description">
-            <p>Desarrollo backend y frontend de aplicación web en PHP y Mysql utilizando el framework de Laravel. Objetivo: crear un sistema que permita administrar la auditoría de equipos informáticos de empresas clientes y generar reporte web y en fichero pdf de los equipos analizados. Características:</p>
+            <p><em>SafeRoom</em> es uno de mis proyectos personales más completos al trabajar simultáneamente con tecnologías variadas tanto a nivel de hardware como a nivel de software.</p>
+<h5 id="resumen">Resumen:</h5>
+<p>Se ha desarrollado un sistema de monitorización que consta de uno o
+varios dispositivos sensores del nivel de concentración de CO2 y ocupación en
+salas de interior. Los datos medidos por el dispositivo instalado en una sala,
+son enviados a un servidor en internet y almacenados en una base de datos. El
+usuario tiene acceso en tiempo real a las mediciones e historial de las salas a
+través de una aplicación web creada y accesible desde la dirección:
+<a href="https://www.saferoom.es">https://www.saferoom.es</a></p>
+<p>Ante un nivel de concentración de CO2 superior a un límite establecido,
+el sistema desarrollado permite notificar la alerta mediante correo electrónico o
+a través de servicio de mensajería de teléfono móvil para que puedan tomarse
+medidas correctoras.</p>
+<h5 id="características">Características:</h5>
 <ol>
-<li>Panel de administración con funcionalidades:</li>
+<li><strong>Dispositivos de monitorización</strong>:</li>
 </ol>
 <ul>
-<li>Panel de administración generado basado en CRUDs, gráficas Chart.js y plantilla Bootstrap AdminLTE.</li>
-<li>Tres niveles de usuarios con privilegios diferenciados de acceso, creación y consulta de informes de auditoría (administrador, auditor, otro).</li>
-<li>Crear/modificar/eliminar nueva cuenta de administrador/auditor.</li>
-<li>Crear/modificar/eliminar opciones de componentes de equipos informáticos para auditar (Ej. CPU Intel Core I9 7800 Mhz) y asignar una puntuación de referencia.</li>
-<li>Crear/modificar/eliminar empresas de clientes.</li>
-<li>Crear/modificar/eliminar equipo informático de cliente a auditar.</li>
-<li>Generar informe de auditoría de equipos informaticos de empresas clientes. Posibilidad de descargar en formato pdf.</li>
+<li>Hardware basado en sistema embebido Raspberry Pi4, sensor de CO2 MH-Z19b y otros componentes (pantalla LCD, cámara, zumbador sonoro, etc.).</li>
+<li>Desarrollados scripts basado en Python para dotar de funcionalidad al hardware y transmitir/recibir datos desde el dispositivo monitor al servidor.</li>
+<li>Protocolo de comunicación IoT MQTT.</li>
+<li>Dos modos de funcionamiento:
+<ul>
+<li>Manual: configurando un umbral de concentración de C02 máximo tolerable.</li>
+<li>Automático (Modo ACH): el dispositivo determina el total de personas en una sala utilizando la cámara y software basado en Deep Learning (Keras y TensorFlow), y según el nivel ACH objetivo
+(ACH = tasa de renovación de aire por hora), determina el umbral de concentración de C02 máximo tolerable en cada momento.</li>
 </ul>
-<p><strong><a href="http://140.238.172.174/audit-pc/">Ver demo online</a></strong> 
-(usuario: <em><a href="mailto:admin@admin.com">admin@admin.com</a></em> - 
-contraseña: <em>admin</em>)</p>
+</li>
+</ul>
+<ol start="2">
+<li><strong>Servidor</strong>:</li>
+</ol>
+<ul>
+<li>Instalado servidor y cliente MQTT para comunicación con disponisitos de monitorización.</li>
+<li>Instalado software auxiliar (Servidor Apache, PHP, base de datos MySQL).</li>
+<li>Desarrollado software basado en Python (scripts) que soporta las comunicaciones MQTT con dispositivos y con la aplicación web.</li>
+</ul>
+<ol start="3">
+<li><strong>Aplicación web</strong> (<em>SafeRoom</em>):</li>
+</ol>
+<ul>
+<li>Desarrollada aplicación web en PHP, MySQL y haciendo uso del framework de Laravel.</li>
+<li>Características:
+<ul>
+<li>Panel de adminitración donde activar/desactivar/consultar cuentas de empresas que utilicen el servicio.</li>
+<li>Panel de empresas:
+<ul>
+<li>Registro e identificación.</li>
+<li>Vincular nuevos dispositivos de monitorización.</li>
+<li>Configurar modo de notificaciones de alertas (correo-e o mensajería móvil).</li>
+<li>Consultar estadísticas en tiempo de real.</li>
+<li>Consultar historial de mediciones.</li>
+<li>Consultar historial de alertas.</li>
+<li>Modificar configuración de dispositivos.</li>
+<li>Eliminar dispositivos del panel de monitorización.</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+<p>Puedes leer el siguiente documento para obtener más detalles:</p>
+<p><strong><a href="https://www.fernando.info/documents/saferoom-presentation.pdf">Ver detalles del proyecto SafeRoom</a></strong> (pdf)</p>
+<p><strong><a href="https://www.saferoom.es">Ver Demo online</a></strong> 
+(usuario: <em><a href="mailto:demo@saferoom.es">demo@saferoom.es</a></em> - 
+contraseña: <em>demo</em>)</p>
 <h5 id="english">English:</h5>
-<p>Backend and frontend development of web application in PHP and Mysql using the Laravel framework. Objective:  create a system that allows to audit computer&rsquo;s equipment of companies  generating a web report and a pdf file of equipments analyzed. Characteristics:</p>
-<ol>
-<li>Administration panel with functionalities:</li>
-</ol>
-<ul>
-<li>Administration panel generated based on CRUDs and Bootstrap AdminLTE template.</li>
-<li>Three levels of users with differentiated privileges for access, creation and consultation of audit reports (administrator, auditor, other).</li>
-<li>Create/modify/delete new administrator/auditor account.</li>
-<li>Create/modify/delete IT component options to audit (eg Intel Core I9 7800 Mhz CPU) and assign a benchmark score.</li>
-<li>Create/modify/delete companies.</li>
-<li>Create/modify/delete companies computer equipment to be audited.</li>
-<li>Generate audit report of computer equipment of companies. Possibility to download in pdf format.</li>
-</ul>
+<p>A monitoring device has been deployed to estimate the CO2
+concentration as well to track the occupancy in indoor environments. Data
+measured by the device installed in a room is sent to an internet server and
+stored in a database. Remote users have real-time access to the
+measurements and track records of the rooms through a web application
+created and accessible from the address: <a href="https://www.saferoom.es">https://www.saferoom.es</a>.</p>
+<p>When concentration of CO2 measure is higher than an pre-established
+threshold, system allows sending alert notification to an e-mail account or
+mobile phone message system so that corrective actions can be taken.</p>
 <h5 id="capturas-de-pantalla--screenshots">Capturas de pantalla / Screenshots:</h5>
           </div>
           <div class="site-project-single-image">
             
             <div  class="col-lg-12 mx-auto">Imagen:</div>
-            <a href="https://www.fernando.info/images/screenshots/audit-pc-01.png"><img src="https://www.fernando.info/images/screenshots/audit-pc-01.png" alt="project image"></a>
+            <a href="https://www.fernando.info/images/screenshots/saferoom-01.jpg"><img src="https://www.fernando.info/images/screenshots/saferoom-01.jpg" alt="project image"></a>
             
             <div  class="col-lg-12 mx-auto">Imagen:</div>
-            <a href="https://www.fernando.info/images/screenshots/audit-pc-02.png"><img src="https://www.fernando.info/images/screenshots/audit-pc-02.png" alt="project image"></a>
+            <a href="https://www.fernando.info/images/screenshots/saferoom-02.png"><img src="https://www.fernando.info/images/screenshots/saferoom-02.png" alt="project image"></a>
             
             <div  class="col-lg-12 mx-auto">Imagen:</div>
-            <a href="https://www.fernando.info/images/screenshots/audit-pc-03.png"><img src="https://www.fernando.info/images/screenshots/audit-pc-03.png" alt="project image"></a>
+            <a href="https://www.fernando.info/images/screenshots/saferoom-03.png"><img src="https://www.fernando.info/images/screenshots/saferoom-03.png" alt="project image"></a>
             
             <div  class="col-lg-12 mx-auto">Imagen:</div>
-            <a href="https://www.fernando.info/images/screenshots/audit-pc-04.png"><img src="https://www.fernando.info/images/screenshots/audit-pc-04.png" alt="project image"></a>
+            <a href="https://www.fernando.info/images/screenshots/saferoom-04.png"><img src="https://www.fernando.info/images/screenshots/saferoom-04.png" alt="project image"></a>
             
             <div  class="col-lg-12 mx-auto">Imagen:</div>
-            <a href="https://www.fernando.info/images/screenshots/audit-pc-05.png"><img src="https://www.fernando.info/images/screenshots/audit-pc-05.png" alt="project image"></a>
+            <a href="https://www.fernando.info/images/screenshots/saferoom-05.png"><img src="https://www.fernando.info/images/screenshots/saferoom-05.png" alt="project image"></a>
             
             <div  class="col-lg-12 mx-auto">Imagen:</div>
-            <a href="https://www.fernando.info/images/screenshots/audit-pc-06.png"><img src="https://www.fernando.info/images/screenshots/audit-pc-06.png" alt="project image"></a>
+            <a href="https://www.fernando.info/images/screenshots/saferoom-06.png"><img src="https://www.fernando.info/images/screenshots/saferoom-06.png" alt="project image"></a>
             
             <div  class="col-lg-12 mx-auto">Imagen:</div>
-            <a href="https://www.fernando.info/images/screenshots/audit-pc-07.png"><img src="https://www.fernando.info/images/screenshots/audit-pc-07.png" alt="project image"></a>
+            <a href="https://www.fernando.info/images/screenshots/saferoom-07.png"><img src="https://www.fernando.info/images/screenshots/saferoom-07.png" alt="project image"></a>
             
             <div  class="col-lg-12 mx-auto">Imagen:</div>
-            <a href="https://www.fernando.info/images/screenshots/audit-pc-08.png"><img src="https://www.fernando.info/images/screenshots/audit-pc-08.png" alt="project image"></a>
+            <a href="https://www.fernando.info/images/screenshots/saferoom-08.png"><img src="https://www.fernando.info/images/screenshots/saferoom-08.png" alt="project image"></a>
             
-            <div  class="col-lg-12 mx-auto">Imagen:</div>
-            <a href="https://www.fernando.info/images/screenshots/audit-pc-09.png"><img src="https://www.fernando.info/images/screenshots/audit-pc-09.png" alt="project image"></a>
-            
-          </div>
-          
-          <div class="site-project-single-action">
-            <a href="https://www.fernando.info/proyectos/safe-room/">
-              <span class="link-area">
-                <span data-text="Siguiente proyecto">
-                  Siguiente proyecto
-                </span>
-              </span>
-              <img src="https://www.fernando.info/images/to-top.svg" alt="Siguiente proyecto">
-            </a>
           </div>
           
         </div>
