@@ -122,7 +122,7 @@ contraseña: &lt;em&gt;admin&lt;/em&gt;)&lt;/p&gt;
 &lt;li&gt;Administration panel generated based on CRUDs and Bootstrap AdminLTE template.&lt;/li&gt;
 &lt;li&gt;Three levels of users with differentiated privileges for access, creation and consultation of audit reports (administrator, auditor, other).&lt;/li&gt;
 &lt;li&gt;Create/modify/delete new administrator/auditor account.&lt;/li&gt;
-&lt;li&gt;Create/modify/delete IT component options to audit (eg Intel Core I9 7800 Mhz CPU) and assign a benchmark score.&lt;/li&gt;
+&lt;li&gt;Create/modify/delete hardware components to audit (eg Intel Core I9 7800 Mhz CPU) and assign a benchmark score.&lt;/li&gt;
 &lt;li&gt;Create/modify/delete companies.&lt;/li&gt;
 &lt;li&gt;Create/modify/delete companies computer equipment to be audited.&lt;/li&gt;
 &lt;li&gt;Generate audit report of computer equipment of companies. Possibility to download in pdf format.&lt;/li&gt;
@@ -212,7 +212,8 @@ contraseña: &lt;em&gt;admin&lt;/em&gt;)&lt;/p&gt;
 &lt;/ul&gt;
 &lt;ol start=&#34;3&#34;&gt;
 &lt;li&gt;Real-time notification system using websockets through pop-up windows to notify chefs about new orders or notify waiters when the order is ready in the kitchen.&lt;/li&gt;
-&lt;/ol&gt;</description>
+&lt;/ol&gt;
+&lt;h5 id=&#34;capturas-de-pantalla--screenshots&#34;&gt;Capturas de pantalla / Screenshots:&lt;/h5&gt;</description>
     </item>
     
     <item>
@@ -230,8 +231,9 @@ contraseña: &lt;em&gt;admin&lt;/em&gt;)&lt;/p&gt;
 &lt;li&gt;Mensajería privada por cada anuncio entre el autor y cada persona interesada.&lt;/li&gt;
 &lt;li&gt;Sistema de valoraciones entre usuarios por cada trato cerrado tras la entrega del objeto regalado.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://loregalo.herokuapp.com&#34;&gt;Demo online&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://github.com/fernandod1/Free-ads&#34;&gt;Capturas de pantalla y descargar&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://loregalo.herokuapp.com&#34;&gt;Ver demo online&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;(usuarioA: &lt;em&gt;&lt;a href=&#34;mailto:demo1@demo.com&#34;&gt;demo1@demo.com&lt;/a&gt;&lt;/em&gt; - contraseñaA: &lt;em&gt;demo1&lt;/em&gt;)&lt;/p&gt;
+&lt;p&gt;(usuarioB: &lt;em&gt;&lt;a href=&#34;mailto:demo3@demo.com&#34;&gt;demo3@demo.com&lt;/a&gt;&lt;/em&gt; - contraseñaB: &lt;em&gt;demo3&lt;/em&gt;)&lt;/p&gt;
 &lt;h5 id=&#34;english&#34;&gt;English:&lt;/h5&gt;
 &lt;p&gt;Full PHP ads script created using Laravel framework where users donate things that don’t use anymore and want to I give it away for free.&lt;/p&gt;
 &lt;p&gt;Features:&lt;/p&gt;
@@ -241,8 +243,8 @@ contraseña: &lt;em&gt;admin&lt;/em&gt;)&lt;/p&gt;
 &lt;li&gt;Search engine by keyword and/or state.&lt;/li&gt;
 &lt;li&gt;Ad private message system between donor and interested person.&lt;/li&gt;
 &lt;li&gt;Rating system between donor and reciever when deal is finished and object is delivered.&lt;/li&gt;
-&lt;li&gt;Note: script is actually translated only in spanish, sorry.&lt;/li&gt;
-&lt;/ul&gt;</description>
+&lt;/ul&gt;
+&lt;h5 id=&#34;capturas-de-pantalla--screenshots&#34;&gt;Capturas de pantalla / Screenshots:&lt;/h5&gt;</description>
     </item>
     
     <item>
@@ -260,7 +262,7 @@ contraseña: &lt;em&gt;admin&lt;/em&gt;)&lt;/p&gt;
 &lt;li&gt;Añadir o eliminar tratamientos de depilación láser a clientes. (Ejemplo: sesión simple o bono de 5 sesiones).&lt;/li&gt;
 &lt;li&gt;Consumo de sesión de cliente.&lt;/li&gt;
 &lt;li&gt;Contador de sesiones disponibles sin consumir de cada tratamiento de cliente.&lt;/li&gt;
-&lt;li&gt;Opciones “pagado antes de sesión” o recordatorio de “pago pendiente”.&lt;/li&gt;
+&lt;li&gt;Opciones &amp;ldquo;pagado antes de sesión&amp;rdquo; o recordatorio de &amp;ldquo;pago pendient&amp;rdquo;.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://github.com/fernandod1/Laser-hair-removal-app&#34;&gt;Capturas de pantalla y descargar&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
 &lt;h5 id=&#34;english&#34;&gt;English:&lt;/h5&gt;
@@ -269,12 +271,11 @@ contraseña: &lt;em&gt;admin&lt;/em&gt;)&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Add, edit, remove clients.&lt;/li&gt;
 &lt;li&gt;List all clients or search one client.&lt;/li&gt;
-&lt;li&gt;Upload system of client’s disclaimer treatment documents.&lt;/li&gt;
-&lt;li&gt;Add, remove new treatment to client. (Mode just one session or Pack of 5 sessions (“bonus pack”)).&lt;/li&gt;
+&lt;li&gt;Upload system of client&amp;rsquo;s disclaimer treatment documents.&lt;/li&gt;
+&lt;li&gt;Add, remove new treatment to client. (Mode just one session or Pack of 5 sessions (&amp;ldquo;bonus pack&amp;rdquo;)).&lt;/li&gt;
 &lt;li&gt;Consume session of client.&lt;/li&gt;
 &lt;li&gt;Counter of sessions left of each treatment of client.&lt;/li&gt;
-&lt;li&gt;Option “pay before session treatment” or “pending payment” label reminder).&lt;/li&gt;
-&lt;li&gt;Note: script is actually only translated to spanish, sorry.&lt;/li&gt;
+&lt;li&gt;Option &amp;ldquo;pay before session treatment&amp;rdquo; or &amp;ldquo;pending payment&amp;rdquo; label reminder).&lt;/li&gt;
 &lt;/ul&gt;</description>
     </item>
     
@@ -363,7 +364,7 @@ contraseña: &lt;em&gt;admin&lt;/em&gt;)&lt;/p&gt;
       <description>&lt;p&gt;Script desarrollado en Python que monitoriza un cuenta de Instagram, y cuando es publicada una imagen, realiza su publicación simultánea en un canal de Discord mediante webhook.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://github.com/fernandod1/Instagram-to-discord&#34;&gt;Descargar&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
 &lt;h5 id=&#34;english&#34;&gt;English:&lt;/h5&gt;
-&lt;p&gt;This python script executes 2 actions:&lt;/p&gt;
+&lt;p&gt;This Python script executes 2 actions:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Monitors for new image posted in an instagram account (must create a cronjob).&lt;/li&gt;
 &lt;li&gt;If found new image, a bot posts new instagram image into a discord channel.&lt;/li&gt;
@@ -376,10 +377,10 @@ contraseña: &lt;em&gt;admin&lt;/em&gt;)&lt;/p&gt;
       <pubDate>Sat, 02 Jan 2021 01:05:41 +0100</pubDate>
       
       <guid>https://www.fernando.info/proyectos/instagram-descargar/</guid>
-      <description>&lt;p&gt;Script en python para descargar todas las imágenes y videos de un usuario público en Instagram.&lt;/p&gt;
+      <description>&lt;p&gt;Script en Python para descargar todas las imágenes y videos de un usuario público en Instagram.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://github.com/fernandod1/Instagram-downloader&#34;&gt;Descargar&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
 &lt;h5 id=&#34;english&#34;&gt;English:&lt;/h5&gt;
-&lt;p&gt;Instagram user’s photos and videos downloader python script. Download all media files from any public username.&lt;/p&gt;</description>
+&lt;p&gt;Instagram user’s photos and videos downloader Python script. Download all media files from any public username.&lt;/p&gt;</description>
     </item>
     
     <item>
