@@ -20,8 +20,7 @@ varios dispositivos sensores del nivel de concentración de CO2 y ocupación en
 salas de interior. Los datos medidos por el dispositivo instalado en una sala,
 son enviados a un servidor en internet y almacenados en una base de datos. El
 usuario tiene acceso en tiempo real a las mediciones e historial de las salas a
-través de una aplicación web creada y accesible desde la dirección:
-&lt;a href=&#34;https://www.saferoom.es&#34;&gt;https://www.saferoom.es&lt;/a&gt;&lt;/p&gt;
+través de una aplicación web creada.&lt;/p&gt;
 &lt;p&gt;Ante un nivel de concentración de CO2 superior a un límite establecido,
 el sistema desarrollado permite notificar la alerta mediante correo electrónico o
 a través de servicio de mensajería de teléfono móvil para que puedan tomarse
@@ -75,7 +74,7 @@ medidas correctoras.&lt;/p&gt;
 &lt;/ul&gt;
 &lt;p&gt;Puedes leer el siguiente documento para obtener más detalles:&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://www.fernando.info/documents/saferoom-presentation.pdf&#34;&gt;Ver detalles del proyecto SafeRoom&lt;/a&gt;&lt;/strong&gt; (pdf)&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://www.saferoom.es&#34;&gt;Ver Demo online&lt;/a&gt;&lt;/strong&gt; 
+&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;http://152.67.94.80/saferoom/&#34;&gt;Ver Demo online&lt;/a&gt;&lt;/strong&gt; 
 (usuario: &lt;em&gt;&lt;a href=&#34;mailto:demo@saferoom.es&#34;&gt;demo@saferoom.es&lt;/a&gt;&lt;/em&gt; - 
 contraseña: &lt;em&gt;demo&lt;/em&gt;)&lt;/p&gt;
 &lt;h5 id=&#34;english&#34;&gt;English:&lt;/h5&gt;
@@ -84,7 +83,7 @@ concentration as well to track the occupancy in indoor environments. Data
 measured by the device installed in a room is sent to an internet server and
 stored in a database. Remote users have real-time access to the
 measurements and track records of the rooms through a web application
-created and accessible from the address: &lt;a href=&#34;https://www.saferoom.es&#34;&gt;https://www.saferoom.es&lt;/a&gt;.&lt;/p&gt;
+created and accessible from the address: http://152.67.94.80/saferoom/.&lt;/p&gt;
 &lt;p&gt;When concentration of CO2 measure is higher than an pre-established
 threshold, system allows sending alert notification to an e-mail account or
 mobile phone message system so that corrective actions can be taken.&lt;/p&gt;
@@ -110,7 +109,7 @@ mobile phone message system so that corrective actions can be taken.&lt;/p&gt;
 &lt;li&gt;Crear/modificar/eliminar equipo informático de cliente a auditar.&lt;/li&gt;
 &lt;li&gt;Generar informe de auditoría de equipos informaticos de empresas clientes. Posibilidad de descargar en formato pdf.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;http://140.238.172.174/audit-pc/&#34;&gt;Ver demo online&lt;/a&gt;&lt;/strong&gt; 
+&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;http://152.67.94.80/auditpc/&#34;&gt;Ver demo online&lt;/a&gt;&lt;/strong&gt; 
 (usuario: &lt;em&gt;&lt;a href=&#34;mailto:admin@admin.com&#34;&gt;admin@admin.com&lt;/a&gt;&lt;/em&gt; - 
 contraseña: &lt;em&gt;admin&lt;/em&gt;)&lt;/p&gt;
 &lt;h5 id=&#34;english&#34;&gt;English:&lt;/h5&gt;
@@ -155,7 +154,7 @@ contraseña: &lt;em&gt;admin&lt;/em&gt;)&lt;/p&gt;
 &lt;li&gt;Posibilidad de enviar enlace de vela creada mediante e-mail a otra persona.&lt;/li&gt;
 &lt;li&gt;Funcionalidad multi-lenguaje (español e inglés actualmente).&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;http://140.238.172.174/lit-candles/&#34;&gt;Demo online&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;http://152.67.94.80/litcandles/&#34;&gt;Demo online&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
 &lt;h5 id=&#34;english&#34;&gt;English:&lt;/h5&gt;
 &lt;p&gt;Online web application developed (backend and frontend) using PHP, Mysql and Javascript. It allows you to light a virtual candle &amp;ldquo;so that all your wishes, requests or prayers may be fulfilled&amp;rdquo;. main features:&lt;/p&gt;
 &lt;ol&gt;
@@ -163,7 +162,7 @@ contraseña: &lt;em&gt;admin&lt;/em&gt;)&lt;/p&gt;
 &lt;/ol&gt;
 &lt;ul&gt;
 &lt;li&gt;Modify and delete created candles.&lt;/li&gt;
-&lt;li&gt;Create, modify, delete specific candle campaigns (eg &amp;ldquo;All Saints&#39; Day&amp;rdquo;), configure personalized candle images, candle consumption periods and start/end of campaigns.&lt;/li&gt;
+&lt;li&gt;Create, modify, delete specific candle campaigns (eg &amp;ldquo;All Saints&amp;rsquo; Day&amp;rdquo;), configure personalized candle images, candle consumption periods and start/end of campaigns.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;ol start=&#34;2&#34;&gt;
 &lt;li&gt;Public page:&lt;/li&gt;
@@ -343,7 +342,7 @@ contraseña: &lt;em&gt;admin&lt;/em&gt;)&lt;/p&gt;
 &lt;p&gt;Cuando la campaña expira, el enlace personalizado al ser visitado podrá mostrar un mensaje de &amp;ldquo;Campaña finalizada&amp;rdquo; o redirigir el tráfico a otra dirección web.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://github.com/fernandod1/Expiring-link-generator&#34;&gt;Capturas de pantalla y descargar&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
 &lt;h5 id=&#34;english&#34;&gt;English:&lt;/h5&gt;
-&lt;p&gt;Full PHP script with admin control panel to generate expiring links to keep track and stats of ad campaigns or other links stuff. When link expires (reach maximum number of clicks configured), script may redirects traffic to an alternative link like &lt;a href=&#34;http://www.disney.com&#34;&gt;www.disney.com&lt;/a&gt; or print &amp;ldquo;Expired campaign&amp;rdquo; message.&lt;/p&gt;
+&lt;p&gt;Full PHP script with admin control panel to generate expiring links to keep track and stats of ad campaigns or other links stuff. When link expires (reach maximum number of clicks configured), script may redirects traffic to an alternative link like &lt;a href=&#34;https://www.disney.com&#34;&gt;www.disney.com&lt;/a&gt; or print &amp;ldquo;Expired campaign&amp;rdquo; message.&lt;/p&gt;
 &lt;p&gt;FEATURES:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Admin login page&lt;/li&gt;
