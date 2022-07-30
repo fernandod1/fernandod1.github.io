@@ -83,7 +83,7 @@ concentration as well to track the occupancy in indoor environments. Data
 measured by the device installed in a room is sent to an internet server and
 stored in a database. Remote users have real-time access to the
 measurements and track records of the rooms through a web application
-created and accessible from the address: http://152.67.94.80/saferoom/.&lt;/p&gt;
+created and accessible from the address: &lt;a href=&#34;http://152.67.94.80/saferoom/&#34;&gt;http://152.67.94.80/saferoom/&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;When concentration of CO2 measure is higher than an pre-established
 threshold, system allows sending alert notification to an e-mail account or
 mobile phone message system so that corrective actions can be taken.&lt;/p&gt;
@@ -154,7 +154,7 @@ contraseña: &lt;em&gt;admin&lt;/em&gt;)&lt;/p&gt;
 &lt;li&gt;Posibilidad de enviar enlace de vela creada mediante e-mail a otra persona.&lt;/li&gt;
 &lt;li&gt;Funcionalidad multi-lenguaje (español e inglés actualmente).&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;http://152.67.94.80/litcandles/&#34;&gt;Demo online&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;http://152.67.94.80/lit-candles/&#34;&gt;Demo online&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
 &lt;h5 id=&#34;english&#34;&gt;English:&lt;/h5&gt;
 &lt;p&gt;Online web application developed (backend and frontend) using PHP, Mysql and Javascript. It allows you to light a virtual candle &amp;ldquo;so that all your wishes, requests or prayers may be fulfilled&amp;rdquo;. main features:&lt;/p&gt;
 &lt;ol&gt;
