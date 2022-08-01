@@ -10,7 +10,7 @@
     <item>
       <title>Salas saludables. Monitorización del nivel de C02</title>
       <link>https://www.fernando.info/proyectos/safe-room/</link>
-      <pubDate>Wed, 12 Jan 2022 01:05:46 +0100</pubDate>
+      <pubDate>Sun, 12 Jun 2022 01:05:46 +0100</pubDate>
       
       <guid>https://www.fernando.info/proyectos/safe-room/</guid>
       <description>&lt;p&gt;&lt;em&gt;SafeRoom&lt;/em&gt; es uno de mis proyectos personales más completos al trabajar simultáneamente con tecnologías variadas tanto a nivel de hardware como a nivel de software.&lt;/p&gt;
@@ -87,6 +87,80 @@ created and accessible from the address: &lt;a href=&#34;http://152.67.94.80/saf
 &lt;p&gt;When concentration of CO2 measure is higher than an pre-established
 threshold, system allows sending alert notification to an e-mail account or
 mobile phone message system so that corrective actions can be taken.&lt;/p&gt;
+&lt;h5 id=&#34;capturas-de-pantalla--screenshots&#34;&gt;Capturas de pantalla / Screenshots:&lt;/h5&gt;</description>
+    </item>
+    
+    <item>
+      <title>Gestión de contratación de seguro de salud.</title>
+      <link>https://www.fernando.info/proyectos/seguros-contratacion/</link>
+      <pubDate>Thu, 10 Mar 2022 01:05:46 +0100</pubDate>
+      
+      <guid>https://www.fernando.info/proyectos/seguros-contratacion/</guid>
+      <description>&lt;p&gt;Aplicación web online desarrollada PHP, Mysql utilizando el framework Laravel. Permite gestionar el seguimiento del proceso de contratación de seguro de salud. Características:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Panel de administración con funcionalidades:&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;Perfiles de administradores, agentes y clientes con permisos diferenciados de operativa en el panel.&lt;/li&gt;
+&lt;li&gt;Administrador tiene permisos para: Añadir, modificar, eliminar agentes, aseguradoras, clientes, médicos/laboratorios y sucursales.&lt;/li&gt;
+&lt;li&gt;Administrador tiene permisos para: Añadir, modificar, eliminar pólizas a clientes, tipos de pólizas, tipos de estados, tipos de checklists médicos a realizar sobre un nuevo cliente.&lt;/li&gt;
+&lt;li&gt;Gestión de documentación requerida en el proceso de contratación. Cambiar estado de documentos y opción de añadir comentarios.&lt;/li&gt;
+&lt;li&gt;Agentes tienen permiso para modificar sus datos de cuenta, consultar el estado del proceso de alta de nuevo cliente asociado a su cuenta de agente. Recibirá notificaciones mediante email de los cambios de estado de proceso.&lt;/li&gt;
+&lt;li&gt;Módulo de bonos para agentes. Permite motivar su trabajo con ganancias extras en función del total de pólizas tramitadas cada mes.&lt;/li&gt;
+&lt;li&gt;Módulo de historial de operaciones realizadas sobre cada contrato de cliente (libro de bitácoras).&lt;/li&gt;
+&lt;li&gt;Módulo de subida y almacenaje de documentos online de cada contrato o cliente.&lt;/li&gt;
+&lt;li&gt;Módulo de solicitud a cliente de pruebas médicas adicionales para completar el proceso de contratación.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h5 id=&#34;english&#34;&gt;English:&lt;/h5&gt;
+&lt;p&gt;Online web application developed in PHP, Mysql using the Laravel framework. Allows you to manage the monitoring of a  health insurance booking process. Features:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Administration panel:&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;Profiles of administrators, agents and clients with different operating permissions.&lt;/li&gt;
+&lt;li&gt;Administrator has permissions to: Add, modify, delete agents, insurances companies, clients, doctors/laboratories and offices.&lt;/li&gt;
+&lt;li&gt;Administrator has permissions to: Add, modify, delete booking requests of clients, types of insurantes, types of states, types of medical checklists to perform on a new client.&lt;/li&gt;
+&lt;li&gt;Management of documentation required in booking process. Change document status and option to add comments.&lt;/li&gt;
+&lt;li&gt;Agents have permission to modify their account data, check the status of the new client booking process associated with their agent account. Agent will receive email notifications of process status changes.&lt;/li&gt;
+&lt;li&gt;Bonus module for agents. It allows to motivate work with extra earnings based on the total number of booking processed each month.&lt;/li&gt;
+&lt;li&gt;History module of operations carried out on each client booking (log system).&lt;/li&gt;
+&lt;li&gt;Module for uploading and storing online documents for each booking or client.&lt;/li&gt;
+&lt;li&gt;Client request module for additional medical tests to complete booking process.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h5 id=&#34;capturas-de-pantalla--screenshots&#34;&gt;Capturas de pantalla / Screenshots:&lt;/h5&gt;</description>
+    </item>
+    
+    <item>
+      <title>Gestión recibos de pagos de socios.</title>
+      <link>https://www.fernando.info/proyectos/club-socios/</link>
+      <pubDate>Thu, 10 Feb 2022 01:05:46 +0100</pubDate>
+      
+      <guid>https://www.fernando.info/proyectos/club-socios/</guid>
+      <description>&lt;p&gt;Aplicación web online desarrollada PHP, Mysql utilizando el framework Laravel. Permite gestionar el historial de pagos y generar nuevos recibos recurrentes y de eventos de un club de socios. Características:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Panel de administración con funcionalidades:&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;Añadir, modificar, eliminar socios.&lt;/li&gt;
+&lt;li&gt;Añadir, modificar, eliminar campaña de recibo recurrente o evento.&lt;/li&gt;
+&lt;li&gt;Crear, modificar, eliminar nuevos recibos recurrentes pendiente de pago de cada socio o sobre eventos puntuales.&lt;/li&gt;
+&lt;li&gt;Envíos automáticamente cada mes de notificaciones de recibos pendientes de pago a email de socio.&lt;/li&gt;
+&lt;li&gt;Envío de notificación a socio cuando recibo cambia estado a &amp;ldquo;pagado&amp;rdquo;.&lt;/li&gt;
+&lt;li&gt;Buscador que permite generar informes de tipo web y tipo .pdf filtrando por ID de recibo, intervalo de fechas, estado de pagos y forma de pago de recibos.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h5 id=&#34;english&#34;&gt;English:&lt;/h5&gt;
+&lt;p&gt;Online web application developed in PHP and Mysql using Laravel framework. It allows you to manage invoices payments history and generate new recurring invoices of member&amp;rsquo;s club. Features:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Administration panel with functionalities:&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;Add, modify, delete partners.&lt;/li&gt;
+&lt;li&gt;Add, modify, delete recurring campaign or event.&lt;/li&gt;
+&lt;li&gt;Create, modify, delete new recurring invoices pending payment from each member or on specific events.&lt;/li&gt;
+&lt;li&gt;Automatic sending each month of notifications of invoices pending payment to member email.&lt;/li&gt;
+&lt;li&gt;Sending notification to member when receipt changes status to &amp;ldquo;paid&amp;rdquo;.&lt;/li&gt;
+&lt;li&gt;Search engine that allows you to generate web-type and .pdf-type reports filtering by receipt ID, date range, payment status and receipt payment method.&lt;/li&gt;
+&lt;/ul&gt;
 &lt;h5 id=&#34;capturas-de-pantalla--screenshots&#34;&gt;Capturas de pantalla / Screenshots:&lt;/h5&gt;</description>
     </item>
     
