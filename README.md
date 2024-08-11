@@ -2,4 +2,4 @@
 
 Source code of my personal website with information about me and my portfolio.
 
-I use Hugo as static pages generator, Congo theme and GitHub Pages as website hosting provider.
+I use Hugo as static pages generator and GitHub Pages as website hosting provider.
