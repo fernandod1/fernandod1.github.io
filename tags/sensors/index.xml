@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sensors on Fernando</title>
+    <link>http://localhost:1313/tags/sensors/</link>
+    <description>Recent content in Sensors on Fernando</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 12 Jun 2022 01:05:46 +0100</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/sensors/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Room&#39;s CO2 level monitoring</title>
+      <link>http://localhost:1313/projects/co2-monitoring-room/</link>
+      <pubDate>Sun, 12 Jun 2022 01:05:46 +0100</pubDate>
+      <guid>http://localhost:1313/projects/co2-monitoring-room/</guid>
+      <description>English: #A monitoring device has been deployed to estimate the CO2 concentration as well to track the occupancy in indoor environments. Data measured by the device installed in a room is sent to an internet server and stored in a database. Remote users have real-time access to the measurements and track records of the rooms through a web application created and accessible via web.</description>
+    </item>
+  </channel>
+</rss>

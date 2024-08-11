@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My projects on Fernando</title>
+    <link>http://localhost:1313/projects/</link>
+    <description>Recent content in My projects on Fernando</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 12 Jun 2022 01:05:46 +0100</lastBuildDate>
+    <atom:link href="http://localhost:1313/projects/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Room&#39;s CO2 level monitoring</title>
+      <link>http://localhost:1313/projects/co2-monitoring-room/</link>
+      <pubDate>Sun, 12 Jun 2022 01:05:46 +0100</pubDate>
+      <guid>http://localhost:1313/projects/co2-monitoring-room/</guid>
+      <description>English: #A monitoring device has been deployed to estimate the CO2 concentration as well to track the occupancy in indoor environments. Data measured by the device installed in a room is sent to an internet server and stored in a database. Remote users have real-time access to the measurements and track records of the rooms through a web application created and accessible via web.</description>
+    </item>
+    <item>
+      <title>Health insurance system</title>
+      <link>http://localhost:1313/projects/health-insurance/</link>
+      <pubDate>Thu, 10 Mar 2022 01:05:46 +0100</pubDate>
+      <guid>http://localhost:1313/projects/health-insurance/</guid>
+      <description>Online web application developed in PHP, Mysql using the Laravel framework. Allows you to manage the monitoring of a health insurance booking process.&#xA;Features # Administration panel: Profiles of administrators, agents and clients with different operating permissions. Administrator has permissions to: Add, modify, delete agents, insurances companies, clients, doctors/laboratories and offices.</description>
+    </item>
+    <item>
+      <title>Membership club management</title>
+      <link>http://localhost:1313/projects/members-club/</link>
+      <pubDate>Thu, 10 Feb 2022 01:05:46 +0100</pubDate>
+      <guid>http://localhost:1313/projects/members-club/</guid>
+      <description>Online web application developed in PHP and Mysql using Laravel framework. It allows you to manage invoices payments history and generate new recurring invoices of member&amp;rsquo;s club. Features:&#xA;Features # Add, modify, delete partners. Add, modify, delete recurring campaign or event. Create, modify, delete new recurring invoices pending payment from each member or on specific events.</description>
+    </item>
+    <item>
+      <title>Audit computer equipment</title>
+      <link>http://localhost:1313/projects/audit-computer-equipment/</link>
+      <pubDate>Tue, 11 Jan 2022 01:06:46 +0100</pubDate>
+      <guid>http://localhost:1313/projects/audit-computer-equipment/</guid>
+      <description>Auditing computer equipment involves systematically reviewing and assessing hardware and software assets within an organization to ensure they meet operational standards, security protocols, and compliance requirements.&#xA;Backend and frontend development of web application in PHP and Mysql using the Laravel framework. Create a system that allows to audit computer&amp;rsquo;s equipment performance of companies generating a web report and a pdf file of equipments analyzed.</description>
+    </item>
+    <item>
+      <title>Light a virtual candle</title>
+      <link>http://localhost:1313/projects/virtual-candle/</link>
+      <pubDate>Mon, 10 Jan 2022 01:05:46 +0100</pubDate>
+      <guid>http://localhost:1313/projects/virtual-candle/</guid>
+      <description>Online web application developed (backend and frontend) using PHP, Mysql and Javascript. It allows you to light a virtual candle &amp;ldquo;so that all your wishes, requests or prayers may be fulfilled&amp;rdquo;.&#xA;Features # Administration panel with features: Modify and delete created candles. Create, modify, delete specific candle campaigns (eg &amp;ldquo;All Saints&amp;rsquo; Day&amp;rdquo;), configure personalized candle images, candle consumption periods and start/end of campaigns.</description>
+    </item>
+    <item>
+      <title>Realtime ordering system in kitchen of restaurant</title>
+      <link>http://localhost:1313/projects/restaurant-orders/</link>
+      <pubDate>Sun, 02 May 2021 01:05:45 +0100</pubDate>
+      <guid>http://localhost:1313/projects/restaurant-orders/</guid>
+      <description>&lt;p&gt;Online web application developed in PHP using Laravel framework for managing real-time kitchen orders in a restaurant. It allows, through a web panel, real-time communication (WebSockets) between chefs and waiters about the status of orders.&lt;/p&gt;&#xA;&lt;h3 id=&#34;features&#34; class=&#34;relative group&#34;&gt;Features &lt;span class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100&#34;&gt;&lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34; style=&#34;text-decoration-line: none !important;&#34; href=&#34;#features&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;&lt;/span&gt;&lt;/h3&gt;&lt;ol&gt;&#xA;&lt;li&gt;System of registration and identification of restaurant workers.&lt;/li&gt;&#xA;&lt;li&gt;Three operational roles:&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Administrator: absolute control over registered worker accounts, active / deactivated account status and account type (administrator, waiter, chef).&lt;/li&gt;&#xA;&lt;li&gt;Waiter: operation on products and stock, taking orders and change of status &amp;ldquo;Annotate order -&amp;gt; Pending&amp;rdquo; or &amp;ldquo;Ready -&amp;gt; Delivered&amp;rdquo;.&lt;/li&gt;&#xA;&lt;li&gt;Chef: operation on change of order status Pending -&amp;gt; Ready and change of product status to &amp;ldquo;no stock&amp;rdquo;.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;ol start=&#34;3&#34;&gt;&#xA;&lt;li&gt;Real-time notification system using websockets through pop-up windows to notify chefs about new orders or notify waiters when the order is ready in the kitchen.&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://github.com/fernandod1/restaurant-orders&#34; target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;View screenshots and download&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Beauty center management</title>
+      <link>http://localhost:1313/projects/beauty-center/</link>
+      <pubDate>Sun, 03 Jan 2021 10:05:47 +0100</pubDate>
+      <guid>http://localhost:1313/projects/beauty-center/</guid>
+      <description>Full PHP script control panel to manage client&amp;rsquo;s database and sessions of laser hair removal treatments in a beauty center.&#xA;Features # Add, edit, remove clients. List all clients or search one client. Upload system of client&amp;rsquo;s disclaimer treatment documents. Add, remove new treatment to client. (Mode just one session or Pack of 5 sessions (&amp;ldquo;bonus pack&amp;rdquo;)).</description>
+    </item>
+    <item>
+      <title>Classified ads portal</title>
+      <link>http://localhost:1313/projects/classified-ads/</link>
+      <pubDate>Sat, 02 Jan 2021 01:05:48 +0100</pubDate>
+      <guid>http://localhost:1313/projects/classified-ads/</guid>
+      <description>Description #Full PHP classified ads aplication created using Laravel framework where users donate things that don’t use anymore and want to I give it away for free.&#xA;Features # Register / login system. Add, edit, remove ads. Search engine by keyword and/or state. Ad private message system between donor and interested person.</description>
+    </item>
+    <item>
+      <title>Aliexpress offers to Telegram</title>
+      <link>http://localhost:1313/projects/aliexpress-telegram-bot/</link>
+      <pubDate>Sat, 02 Jan 2021 01:05:46 +0100</pubDate>
+      <guid>http://localhost:1313/projects/aliexpress-telegram-bot/</guid>
+      <description>Python script that reads Aliexpress offers urls from a Excel filename and post then in a Telegram channel using a bot. You can see post design in image below. You need to create a cronjob in server to determine publishing frecuency of new offers.&#xA;Check screenshots and download.</description>
+    </item>
+    <item>
+      <title>Covid-19 report Spain</title>
+      <link>http://localhost:1313/projects/covid-19-report/</link>
+      <pubDate>Sat, 02 Jan 2021 01:05:46 +0100</pubDate>
+      <guid>http://localhost:1313/projects/covid-19-report/</guid>
+      <description>PHP script displaying daily reports/stats about Covid-19 virus status in Spain and its states. Data is collected from API of Ministerio de Sanidad of government of Spain.&#xA;Download page&#xA;Screenshots # Covid report by states </description>
+    </item>
+    <item>
+      <title>Book a room</title>
+      <link>http://localhost:1313/projects/booking-room/</link>
+      <pubDate>Sat, 02 Jan 2021 01:05:45 +0100</pubDate>
+      <guid>http://localhost:1313/projects/booking-room/</guid>
+      <description>PHP script to manage a meeting room booking system.&#xA;Features # Added calendar to select any date. Script configured to assign best room acording to number of persons and capability. Not MySQL database required. Data stored in plain text files. View screenshots and download</description>
+    </item>
+    <item>
+      <title>Domain expiration monitoring</title>
+      <link>http://localhost:1313/projects/domain-expiration-monitoring/</link>
+      <pubDate>Sat, 02 Jan 2021 01:05:44 +0100</pubDate>
+      <guid>http://localhost:1313/projects/domain-expiration-monitoring/</guid>
+      <description>Python script for live monitoring .ES domains expiration and execute domain backorder as soon as expired. Notify spanish domains (.ES) expiration. For example, you can use registrants API to register domain instantly (domain backorder) &amp;amp; catch it!&#xA;Download page</description>
+    </item>
+    <item>
+      <title>Temporary link generator</title>
+      <link>http://localhost:1313/projects/temporary-link-generator/</link>
+      <pubDate>Sat, 02 Jan 2021 01:05:43 +0100</pubDate>
+      <guid>http://localhost:1313/projects/temporary-link-generator/</guid>
+      <description>Full PHP script with admin control panel to generate expiring links to keep track and stats of ad campaigns or other links stuff. When link expires (reach maximum number of clicks configured), script may redirects traffic to an alternative link like disney.com or print &amp;ldquo;Expired campaign&amp;rdquo; message.&#xA;Features # Admin login page Admin control panel Create / delete new expiration links Daily stats of each link Custom link to track clicks Custom javascript code you can insert into any webpage to print in real time number of clicks a link recieves.</description>
+    </item>
+    <item>
+      <title>Instagram to Discord publisher</title>
+      <link>http://localhost:1313/projects/instagram-to-discord-publish/</link>
+      <pubDate>Sat, 02 Jan 2021 01:05:42 +0100</pubDate>
+      <guid>http://localhost:1313/projects/instagram-to-discord-publish/</guid>
+      <description>This Python script executes 2 actions:&#xA;Monitors for new image posted in an instagram account (must create a cronjob). If found new image, a bot posts new instagram image into a discord channel. Download page</description>
+    </item>
+    <item>
+      <title>Instagram downloader</title>
+      <link>http://localhost:1313/projects/instagram-downloader/</link>
+      <pubDate>Sat, 02 Jan 2021 01:05:41 +0100</pubDate>
+      <guid>http://localhost:1313/projects/instagram-downloader/</guid>
+      <description>Instagram user’s photos and videos downloader Python script. Download all media files from any public username.&#xA;Download page</description>
+    </item>
+    <item>
+      <title>IP block by countries</title>
+      <link>http://localhost:1313/projects/ip-country-block/</link>
+      <pubDate>Sat, 02 Jan 2021 01:05:40 +0100</pubDate>
+      <guid>http://localhost:1313/projects/ip-country-block/</guid>
+      <description>PHP script with web control panel to block web access from certain countries that you choose. It uses http://api.hostip.info IP Location API.&#xA;Check screenshots and download</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Python on Fernando</title>
+    <link>http://localhost:1313/tags/python/</link>
+    <description>Recent content in Python on Fernando</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 02 Jan 2021 01:05:46 +0100</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/python/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Aliexpress offers to Telegram</title>
+      <link>http://localhost:1313/projects/aliexpress-telegram-bot/</link>
+      <pubDate>Sat, 02 Jan 2021 01:05:46 +0100</pubDate>
+      <guid>http://localhost:1313/projects/aliexpress-telegram-bot/</guid>
+      <description>Python script that reads Aliexpress offers urls from a Excel filename and post then in a Telegram channel using a bot. You can see post design in image below. You need to create a cronjob in server to determine publishing frecuency of new offers.&#xA;Check screenshots and download.</description>
+    </item>
+    <item>
+      <title>Domain expiration monitoring</title>
+      <link>http://localhost:1313/projects/domain-expiration-monitoring/</link>
+      <pubDate>Sat, 02 Jan 2021 01:05:44 +0100</pubDate>
+      <guid>http://localhost:1313/projects/domain-expiration-monitoring/</guid>
+      <description>Python script for live monitoring .ES domains expiration and execute domain backorder as soon as expired. Notify spanish domains (.ES) expiration. For example, you can use registrants API to register domain instantly (domain backorder) &amp;amp; catch it!&#xA;Download page</description>
+    </item>
+    <item>
+      <title>Instagram to Discord publisher</title>
+      <link>http://localhost:1313/projects/instagram-to-discord-publish/</link>
+      <pubDate>Sat, 02 Jan 2021 01:05:42 +0100</pubDate>
+      <guid>http://localhost:1313/projects/instagram-to-discord-publish/</guid>
+      <description>This Python script executes 2 actions:&#xA;Monitors for new image posted in an instagram account (must create a cronjob). If found new image, a bot posts new instagram image into a discord channel. Download page</description>
+    </item>
+    <item>
+      <title>Instagram downloader</title>
+      <link>http://localhost:1313/projects/instagram-downloader/</link>
+      <pubDate>Sat, 02 Jan 2021 01:05:41 +0100</pubDate>
+      <guid>http://localhost:1313/projects/instagram-downloader/</guid>
+      <description>Instagram user’s photos and videos downloader Python script. Download all media files from any public username.&#xA;Download page</description>
+    </item>
+  </channel>
+</rss>

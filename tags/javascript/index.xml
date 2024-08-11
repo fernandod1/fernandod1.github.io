@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Javascript on Fernando</title>
+    <link>http://localhost:1313/tags/javascript/</link>
+    <description>Recent content in Javascript on Fernando</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 12 Jun 2022 01:05:46 +0100</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/javascript/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Room&#39;s CO2 level monitoring</title>
+      <link>http://localhost:1313/projects/co2-monitoring-room/</link>
+      <pubDate>Sun, 12 Jun 2022 01:05:46 +0100</pubDate>
+      <guid>http://localhost:1313/projects/co2-monitoring-room/</guid>
+      <description>English: #A monitoring device has been deployed to estimate the CO2 concentration as well to track the occupancy in indoor environments. Data measured by the device installed in a room is sent to an internet server and stored in a database. Remote users have real-time access to the measurements and track records of the rooms through a web application created and accessible via web.</description>
+    </item>
+    <item>
+      <title>Health insurance system</title>
+      <link>http://localhost:1313/projects/health-insurance/</link>
+      <pubDate>Thu, 10 Mar 2022 01:05:46 +0100</pubDate>
+      <guid>http://localhost:1313/projects/health-insurance/</guid>
+      <description>Online web application developed in PHP, Mysql using the Laravel framework. Allows you to manage the monitoring of a health insurance booking process.&#xA;Features # Administration panel: Profiles of administrators, agents and clients with different operating permissions. Administrator has permissions to: Add, modify, delete agents, insurances companies, clients, doctors/laboratories and offices.</description>
+    </item>
+    <item>
+      <title>Membership club management</title>
+      <link>http://localhost:1313/projects/members-club/</link>
+      <pubDate>Thu, 10 Feb 2022 01:05:46 +0100</pubDate>
+      <guid>http://localhost:1313/projects/members-club/</guid>
+      <description>Online web application developed in PHP and Mysql using Laravel framework. It allows you to manage invoices payments history and generate new recurring invoices of member&amp;rsquo;s club. Features:&#xA;Features # Add, modify, delete partners. Add, modify, delete recurring campaign or event. Create, modify, delete new recurring invoices pending payment from each member or on specific events.</description>
+    </item>
+    <item>
+      <title>Audit computer equipment</title>
+      <link>http://localhost:1313/projects/audit-computer-equipment/</link>
+      <pubDate>Tue, 11 Jan 2022 01:06:46 +0100</pubDate>
+      <guid>http://localhost:1313/projects/audit-computer-equipment/</guid>
+      <description>Auditing computer equipment involves systematically reviewing and assessing hardware and software assets within an organization to ensure they meet operational standards, security protocols, and compliance requirements.&#xA;Backend and frontend development of web application in PHP and Mysql using the Laravel framework. Create a system that allows to audit computer&amp;rsquo;s equipment performance of companies generating a web report and a pdf file of equipments analyzed.</description>
+    </item>
+    <item>
+      <title>Light a virtual candle</title>
+      <link>http://localhost:1313/projects/virtual-candle/</link>
+      <pubDate>Mon, 10 Jan 2022 01:05:46 +0100</pubDate>
+      <guid>http://localhost:1313/projects/virtual-candle/</guid>
+      <description>Online web application developed (backend and frontend) using PHP, Mysql and Javascript. It allows you to light a virtual candle &amp;ldquo;so that all your wishes, requests or prayers may be fulfilled&amp;rdquo;.&#xA;Features # Administration panel with features: Modify and delete created candles. Create, modify, delete specific candle campaigns (eg &amp;ldquo;All Saints&amp;rsquo; Day&amp;rdquo;), configure personalized candle images, candle consumption periods and start/end of campaigns.</description>
+    </item>
+  </channel>
+</rss>
