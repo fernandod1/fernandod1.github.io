@@ -9,6 +9,13 @@
     <lastBuildDate>Sun, 12 Jun 2022 01:05:46 +0100</lastBuildDate>
     <atom:link href="https://www.fernando.info/projects/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Fitness activities tracker</title>
+      <link>https://www.fernando.info/projects/fitness-activities-tracker/</link>
+      <pubDate>Sun, 12 Jun 2022 01:05:46 +0100</pubDate>
+      <guid>https://www.fernando.info/projects/fitness-activities-tracker/</guid>
+      <description>Small Laravel web project to track daily user&amp;rsquo;s fitness activities.&#xA;Features # User registration and login. General listing of all activities. Filter by type option (cycling, running, swimming&amp;hellip;). Online form to add new activities. Tech features # Request form data validation on new activity. Data cache system on public dashboard. Observer to trigger update cache on new fitness activity.</description>
+    </item>
+    <item>
       <title>Room&#39;s CO2 level monitoring</title>
       <link>https://www.fernando.info/projects/co2-monitoring-room/</link>
       <pubDate>Sun, 12 Jun 2022 01:05:46 +0100</pubDate>

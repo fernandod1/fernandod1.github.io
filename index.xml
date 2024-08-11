@@ -16,6 +16,13 @@
       <description>Hey!&#xA;I am Fernando from Málaga (Spain).&#xA;With over a decade of experience as an internet projects entrepreneur, I have honed my analytical, organized, and detail-oriented skills, which I now leverage as a software developer focused in backend development using PHP stack.&#xA;My commitment to delivering high-quality solutions allows me to effectively tackle challenges and drive business growth, while my collaborative approach ensures successful teamwork and project execution.</description>
     </item>
     <item>
+      <title>Fitness activities tracker</title>
+      <link>https://www.fernando.info/projects/fitness-activities-tracker/</link>
+      <pubDate>Sun, 12 Jun 2022 01:05:46 +0100</pubDate>
+      <guid>https://www.fernando.info/projects/fitness-activities-tracker/</guid>
+      <description>Small Laravel web project to track daily user&amp;rsquo;s fitness activities.&#xA;Features # User registration and login. General listing of all activities. Filter by type option (cycling, running, swimming&amp;hellip;). Online form to add new activities. Tech features # Request form data validation on new activity. Data cache system on public dashboard. Observer to trigger update cache on new fitness activity.</description>
+    </item>
+    <item>
       <title>Room&#39;s CO2 level monitoring</title>
       <link>https://www.fernando.info/projects/co2-monitoring-room/</link>
       <pubDate>Sun, 12 Jun 2022 01:05:46 +0100</pubDate>
