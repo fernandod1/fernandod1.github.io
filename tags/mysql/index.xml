@@ -2,66 +2,66 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>MySQL on Fernando</title>
-    <link>http://localhost:1313/tags/mysql/</link>
+    <link>https://www.fernando.info/tags/mysql/</link>
     <description>Recent content in MySQL on Fernando</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Sun, 12 Jun 2022 01:05:46 +0100</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/mysql/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.fernando.info/tags/mysql/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Room&#39;s CO2 level monitoring</title>
-      <link>http://localhost:1313/projects/co2-monitoring-room/</link>
+      <link>https://www.fernando.info/projects/co2-monitoring-room/</link>
       <pubDate>Sun, 12 Jun 2022 01:05:46 +0100</pubDate>
-      <guid>http://localhost:1313/projects/co2-monitoring-room/</guid>
+      <guid>https://www.fernando.info/projects/co2-monitoring-room/</guid>
       <description>English: #A monitoring device has been deployed to estimate the CO2 concentration as well to track the occupancy in indoor environments. Data measured by the device installed in a room is sent to an internet server and stored in a database. Remote users have real-time access to the measurements and track records of the rooms through a web application created and accessible via web.</description>
     </item>
     <item>
       <title>Health insurance system</title>
-      <link>http://localhost:1313/projects/health-insurance/</link>
+      <link>https://www.fernando.info/projects/health-insurance/</link>
       <pubDate>Thu, 10 Mar 2022 01:05:46 +0100</pubDate>
-      <guid>http://localhost:1313/projects/health-insurance/</guid>
+      <guid>https://www.fernando.info/projects/health-insurance/</guid>
       <description>Online web application developed in PHP, Mysql using the Laravel framework. Allows you to manage the monitoring of a health insurance booking process.&#xA;Features # Administration panel: Profiles of administrators, agents and clients with different operating permissions. Administrator has permissions to: Add, modify, delete agents, insurances companies, clients, doctors/laboratories and offices.</description>
     </item>
     <item>
       <title>Membership club management</title>
-      <link>http://localhost:1313/projects/members-club/</link>
+      <link>https://www.fernando.info/projects/members-club/</link>
       <pubDate>Thu, 10 Feb 2022 01:05:46 +0100</pubDate>
-      <guid>http://localhost:1313/projects/members-club/</guid>
+      <guid>https://www.fernando.info/projects/members-club/</guid>
       <description>Online web application developed in PHP and Mysql using Laravel framework. It allows you to manage invoices payments history and generate new recurring invoices of member&amp;rsquo;s club. Features:&#xA;Features # Add, modify, delete partners. Add, modify, delete recurring campaign or event. Create, modify, delete new recurring invoices pending payment from each member or on specific events.</description>
     </item>
     <item>
       <title>Audit computer equipment</title>
-      <link>http://localhost:1313/projects/audit-computer-equipment/</link>
+      <link>https://www.fernando.info/projects/audit-computer-equipment/</link>
       <pubDate>Tue, 11 Jan 2022 01:06:46 +0100</pubDate>
-      <guid>http://localhost:1313/projects/audit-computer-equipment/</guid>
+      <guid>https://www.fernando.info/projects/audit-computer-equipment/</guid>
       <description>Auditing computer equipment involves systematically reviewing and assessing hardware and software assets within an organization to ensure they meet operational standards, security protocols, and compliance requirements.&#xA;Backend and frontend development of web application in PHP and Mysql using the Laravel framework. Create a system that allows to audit computer&amp;rsquo;s equipment performance of companies generating a web report and a pdf file of equipments analyzed.</description>
     </item>
     <item>
       <title>Light a virtual candle</title>
-      <link>http://localhost:1313/projects/virtual-candle/</link>
+      <link>https://www.fernando.info/projects/virtual-candle/</link>
       <pubDate>Mon, 10 Jan 2022 01:05:46 +0100</pubDate>
-      <guid>http://localhost:1313/projects/virtual-candle/</guid>
+      <guid>https://www.fernando.info/projects/virtual-candle/</guid>
       <description>Online web application developed (backend and frontend) using PHP, Mysql and Javascript. It allows you to light a virtual candle &amp;ldquo;so that all your wishes, requests or prayers may be fulfilled&amp;rdquo;.&#xA;Features # Administration panel with features: Modify and delete created candles. Create, modify, delete specific candle campaigns (eg &amp;ldquo;All Saints&amp;rsquo; Day&amp;rdquo;), configure personalized candle images, candle consumption periods and start/end of campaigns.</description>
     </item>
     <item>
       <title>Realtime ordering system in kitchen of restaurant</title>
-      <link>http://localhost:1313/projects/restaurant-orders/</link>
+      <link>https://www.fernando.info/projects/restaurant-orders/</link>
       <pubDate>Sun, 02 May 2021 01:05:45 +0100</pubDate>
-      <guid>http://localhost:1313/projects/restaurant-orders/</guid>
+      <guid>https://www.fernando.info/projects/restaurant-orders/</guid>
       <description>&lt;p&gt;Online web application developed in PHP using Laravel framework for managing real-time kitchen orders in a restaurant. It allows, through a web panel, real-time communication (WebSockets) between chefs and waiters about the status of orders.&lt;/p&gt;&#xA;&lt;h3 id=&#34;features&#34; class=&#34;relative group&#34;&gt;Features &lt;span class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100&#34;&gt;&lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34; style=&#34;text-decoration-line: none !important;&#34; href=&#34;#features&#34; aria-label=&#34;Anchor&#34;&gt;#&lt;/a&gt;&lt;/span&gt;&lt;/h3&gt;&lt;ol&gt;&#xA;&lt;li&gt;System of registration and identification of restaurant workers.&lt;/li&gt;&#xA;&lt;li&gt;Three operational roles:&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Administrator: absolute control over registered worker accounts, active / deactivated account status and account type (administrator, waiter, chef).&lt;/li&gt;&#xA;&lt;li&gt;Waiter: operation on products and stock, taking orders and change of status &amp;ldquo;Annotate order -&amp;gt; Pending&amp;rdquo; or &amp;ldquo;Ready -&amp;gt; Delivered&amp;rdquo;.&lt;/li&gt;&#xA;&lt;li&gt;Chef: operation on change of order status Pending -&amp;gt; Ready and change of product status to &amp;ldquo;no stock&amp;rdquo;.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;ol start=&#34;3&#34;&gt;&#xA;&lt;li&gt;Real-time notification system using websockets through pop-up windows to notify chefs about new orders or notify waiters when the order is ready in the kitchen.&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://github.com/fernandod1/restaurant-orders&#34; target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;View screenshots and download&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Beauty center management</title>
-      <link>http://localhost:1313/projects/beauty-center/</link>
+      <link>https://www.fernando.info/projects/beauty-center/</link>
       <pubDate>Sun, 03 Jan 2021 10:05:47 +0100</pubDate>
-      <guid>http://localhost:1313/projects/beauty-center/</guid>
+      <guid>https://www.fernando.info/projects/beauty-center/</guid>
       <description>Full PHP script control panel to manage client&amp;rsquo;s database and sessions of laser hair removal treatments in a beauty center.&#xA;Features # Add, edit, remove clients. List all clients or search one client. Upload system of client&amp;rsquo;s disclaimer treatment documents. Add, remove new treatment to client. (Mode just one session or Pack of 5 sessions (&amp;ldquo;bonus pack&amp;rdquo;)).</description>
     </item>
     <item>
       <title>Classified ads portal</title>
-      <link>http://localhost:1313/projects/classified-ads/</link>
+      <link>https://www.fernando.info/projects/classified-ads/</link>
       <pubDate>Sat, 02 Jan 2021 01:05:48 +0100</pubDate>
-      <guid>http://localhost:1313/projects/classified-ads/</guid>
+      <guid>https://www.fernando.info/projects/classified-ads/</guid>
       <description>Description #Full PHP classified ads aplication created using Laravel framework where users donate things that don’t use anymore and want to I give it away for free.&#xA;Features # Register / login system. Add, edit, remove ads. Search engine by keyword and/or state. Ad private message system between donor and interested person.</description>
     </item>
   </channel>

@@ -2,66 +2,66 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Fernando</title>
-    <link>http://localhost:1313/tags/</link>
+    <link>https://www.fernando.info/tags/</link>
     <description>Recent content in Tags on Fernando</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Sun, 12 Jun 2022 01:05:46 +0100</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://www.fernando.info/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Javascript</title>
-      <link>http://localhost:1313/tags/javascript/</link>
+      <link>https://www.fernando.info/tags/javascript/</link>
       <pubDate>Sun, 12 Jun 2022 01:05:46 +0100</pubDate>
-      <guid>http://localhost:1313/tags/javascript/</guid>
+      <guid>https://www.fernando.info/tags/javascript/</guid>
       <description></description>
     </item>
     <item>
       <title>Laravel</title>
-      <link>http://localhost:1313/tags/laravel/</link>
+      <link>https://www.fernando.info/tags/laravel/</link>
       <pubDate>Sun, 12 Jun 2022 01:05:46 +0100</pubDate>
-      <guid>http://localhost:1313/tags/laravel/</guid>
+      <guid>https://www.fernando.info/tags/laravel/</guid>
       <description></description>
     </item>
     <item>
       <title>MySQL</title>
-      <link>http://localhost:1313/tags/mysql/</link>
+      <link>https://www.fernando.info/tags/mysql/</link>
       <pubDate>Sun, 12 Jun 2022 01:05:46 +0100</pubDate>
-      <guid>http://localhost:1313/tags/mysql/</guid>
+      <guid>https://www.fernando.info/tags/mysql/</guid>
       <description></description>
     </item>
     <item>
       <title>PHP</title>
-      <link>http://localhost:1313/tags/php/</link>
+      <link>https://www.fernando.info/tags/php/</link>
       <pubDate>Sun, 12 Jun 2022 01:05:46 +0100</pubDate>
-      <guid>http://localhost:1313/tags/php/</guid>
+      <guid>https://www.fernando.info/tags/php/</guid>
       <description></description>
     </item>
     <item>
       <title>Raspberry Pi4</title>
-      <link>http://localhost:1313/tags/raspberry-pi4/</link>
+      <link>https://www.fernando.info/tags/raspberry-pi4/</link>
       <pubDate>Sun, 12 Jun 2022 01:05:46 +0100</pubDate>
-      <guid>http://localhost:1313/tags/raspberry-pi4/</guid>
+      <guid>https://www.fernando.info/tags/raspberry-pi4/</guid>
       <description></description>
     </item>
     <item>
       <title>Sensors</title>
-      <link>http://localhost:1313/tags/sensors/</link>
+      <link>https://www.fernando.info/tags/sensors/</link>
       <pubDate>Sun, 12 Jun 2022 01:05:46 +0100</pubDate>
-      <guid>http://localhost:1313/tags/sensors/</guid>
+      <guid>https://www.fernando.info/tags/sensors/</guid>
       <description></description>
     </item>
     <item>
       <title>WebSockets</title>
-      <link>http://localhost:1313/tags/websockets/</link>
+      <link>https://www.fernando.info/tags/websockets/</link>
       <pubDate>Sun, 02 May 2021 01:05:45 +0100</pubDate>
-      <guid>http://localhost:1313/tags/websockets/</guid>
+      <guid>https://www.fernando.info/tags/websockets/</guid>
       <description></description>
     </item>
     <item>
       <title>Python</title>
-      <link>http://localhost:1313/tags/python/</link>
+      <link>https://www.fernando.info/tags/python/</link>
       <pubDate>Sat, 02 Jan 2021 01:05:46 +0100</pubDate>
-      <guid>http://localhost:1313/tags/python/</guid>
+      <guid>https://www.fernando.info/tags/python/</guid>
       <description></description>
     </item>
   </channel>
