@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Fernando</title>
+    <link>https://www.fernando.info/es/tags/</link>
+    <description>Recent content in Tags on Fernando</description>
+    <generator>Hugo</generator>
+    <language>es-ES</language>
+    <lastBuildDate>Sat, 10 Aug 2024 10:05:46 +0100</lastBuildDate>
+    <atom:link href="https://www.fernando.info/es/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>API</title>
+      <link>https://www.fernando.info/es/tags/api/</link>
+      <pubDate>Sat, 10 Aug 2024 10:05:46 +0100</pubDate>
+      <guid>https://www.fernando.info/es/tags/api/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Laravel</title>
+      <link>https://www.fernando.info/es/tags/laravel/</link>
+      <pubDate>Sat, 10 Aug 2024 10:05:46 +0100</pubDate>
+      <guid>https://www.fernando.info/es/tags/laravel/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>MySQL</title>
+      <link>https://www.fernando.info/es/tags/mysql/</link>
+      <pubDate>Sat, 10 Aug 2024 10:05:46 +0100</pubDate>
+      <guid>https://www.fernando.info/es/tags/mysql/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>PHP</title>
+      <link>https://www.fernando.info/es/tags/php/</link>
+      <pubDate>Sat, 10 Aug 2024 10:05:46 +0100</pubDate>
+      <guid>https://www.fernando.info/es/tags/php/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>PHPUnit</title>
+      <link>https://www.fernando.info/es/tags/phpunit/</link>
+      <pubDate>Sat, 10 Aug 2024 10:05:46 +0100</pubDate>
+      <guid>https://www.fernando.info/es/tags/phpunit/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Javascript</title>
+      <link>https://www.fernando.info/es/tags/javascript/</link>
+      <pubDate>Sun, 12 Jun 2022 01:05:46 +0100</pubDate>
+      <guid>https://www.fernando.info/es/tags/javascript/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Raspberry Pi4</title>
+      <link>https://www.fernando.info/es/tags/raspberry-pi4/</link>
+      <pubDate>Sun, 12 Jun 2022 01:05:46 +0100</pubDate>
+      <guid>https://www.fernando.info/es/tags/raspberry-pi4/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Sensors</title>
+      <link>https://www.fernando.info/es/tags/sensors/</link>
+      <pubDate>Sun, 12 Jun 2022 01:05:46 +0100</pubDate>
+      <guid>https://www.fernando.info/es/tags/sensors/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>WebSockets</title>
+      <link>https://www.fernando.info/es/tags/websockets/</link>
+      <pubDate>Sun, 02 May 2021 01:05:45 +0100</pubDate>
+      <guid>https://www.fernando.info/es/tags/websockets/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Python</title>
+      <link>https://www.fernando.info/es/tags/python/</link>
+      <pubDate>Sat, 02 Jan 2021 01:05:46 +0100</pubDate>
+      <guid>https://www.fernando.info/es/tags/python/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

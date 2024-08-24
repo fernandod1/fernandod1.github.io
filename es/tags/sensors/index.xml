@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sensors on Fernando</title>
+    <link>https://www.fernando.info/es/tags/sensors/</link>
+    <description>Recent content in Sensors on Fernando</description>
+    <generator>Hugo</generator>
+    <language>es-ES</language>
+    <lastBuildDate>Sun, 12 Jun 2022 01:05:46 +0100</lastBuildDate>
+    <atom:link href="https://www.fernando.info/es/tags/sensors/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Nivel de CO2 en salas</title>
+      <link>https://www.fernando.info/es/projects/co2-monitoring-room/</link>
+      <pubDate>Sun, 12 Jun 2022 01:05:46 +0100</pubDate>
+      <guid>https://www.fernando.info/es/projects/co2-monitoring-room/</guid>
+      <description>SafeRoom es uno de mis proyectos personales más completos al trabajar simultáneamente con tecnologías variadas tanto a nivel de hardware como a nivel de software.&#xA;Resumen #Se ha desarrollado un sistema de monitorización que consta de uno o varios dispositivos sensores del nivel de concentración de CO2 y ocupación en salas de interior.</description>
+    </item>
+  </channel>
+</rss>

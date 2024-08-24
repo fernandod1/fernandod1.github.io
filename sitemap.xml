@@ -1,169 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
+  <sitemap>
+    <loc>https://www.fernando.info/en/sitemap.xml</loc>
     
-      <url>
-            <loc>https://www.fernando.info/</loc>
-            <lastmod>2024-08-01T10:05:00+01:00</lastmod>
-          </url>
+      <lastmod>2024-08-01T10:05:00+01:00</lastmod>
     
+  </sitemap>
   
+  <sitemap>
+    <loc>https://www.fernando.info/es/sitemap.xml</loc>
     
-      <url>
-            <loc>https://www.fernando.info/about/</loc>
-            <lastmod>2024-08-01T10:05:00+01:00</lastmod>
-          </url>
+      <lastmod>2024-08-10T10:05:46+01:00</lastmod>
     
+  </sitemap>
   
-    
-  
-    
-      <url>
-            <loc>https://www.fernando.info/projects/fitness-activities-tracker/</loc>
-            <lastmod>2022-06-12T01:05:46+01:00</lastmod>
-          </url>
-    
-  
-    
-  
-    
-  
-    
-      <url>
-            <loc>https://www.fernando.info/projects/</loc>
-            <lastmod>2022-06-12T01:05:46+01:00</lastmod>
-          </url>
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-      <url>
-            <loc>https://www.fernando.info/projects/co2-monitoring-room/</loc>
-            <lastmod>2022-06-12T01:05:46+01:00</lastmod>
-          </url>
-    
-  
-    
-  
-    
-  
-    
-      <url>
-            <loc>https://www.fernando.info/projects/health-insurance/</loc>
-            <lastmod>2022-03-10T01:05:46+01:00</lastmod>
-          </url>
-    
-  
-    
-      <url>
-            <loc>https://www.fernando.info/projects/members-club/</loc>
-            <lastmod>2022-02-10T01:05:46+01:00</lastmod>
-          </url>
-    
-  
-    
-      <url>
-            <loc>https://www.fernando.info/projects/audit-computer-equipment/</loc>
-            <lastmod>2022-01-11T01:06:46+01:00</lastmod>
-          </url>
-    
-  
-    
-      <url>
-            <loc>https://www.fernando.info/projects/virtual-candle/</loc>
-            <lastmod>2022-01-10T01:05:46+01:00</lastmod>
-          </url>
-    
-  
-    
-      <url>
-            <loc>https://www.fernando.info/projects/restaurant-orders/</loc>
-            <lastmod>2021-05-02T01:05:45+01:00</lastmod>
-          </url>
-    
-  
-    
-  
-    
-      <url>
-            <loc>https://www.fernando.info/projects/beauty-center/</loc>
-            <lastmod>2021-01-03T10:05:47+01:00</lastmod>
-          </url>
-    
-  
-    
-      <url>
-            <loc>https://www.fernando.info/projects/classified-ads/</loc>
-            <lastmod>2021-01-02T01:05:48+01:00</lastmod>
-          </url>
-    
-  
-    
-      <url>
-            <loc>https://www.fernando.info/projects/aliexpress-telegram-bot/</loc>
-            <lastmod>2021-01-02T01:05:46+01:00</lastmod>
-          </url>
-    
-  
-    
-      <url>
-            <loc>https://www.fernando.info/projects/covid-19-report/</loc>
-            <lastmod>2021-01-02T01:05:46+01:00</lastmod>
-          </url>
-    
-  
-    
-  
-    
-      <url>
-            <loc>https://www.fernando.info/projects/booking-room/</loc>
-            <lastmod>2021-01-02T01:05:45+01:00</lastmod>
-          </url>
-    
-  
-    
-      <url>
-            <loc>https://www.fernando.info/projects/domain-expiration-monitoring/</loc>
-            <lastmod>2021-01-02T01:05:44+01:00</lastmod>
-          </url>
-    
-  
-    
-      <url>
-            <loc>https://www.fernando.info/projects/temporary-link-generator/</loc>
-            <lastmod>2021-01-02T01:05:43+01:00</lastmod>
-          </url>
-    
-  
-    
-      <url>
-            <loc>https://www.fernando.info/projects/instagram-to-discord-publish/</loc>
-            <lastmod>2021-01-02T01:05:42+01:00</lastmod>
-          </url>
-    
-  
-    
-      <url>
-            <loc>https://www.fernando.info/projects/instagram-downloader/</loc>
-            <lastmod>2021-01-02T01:05:41+01:00</lastmod>
-          </url>
-    
-  
-    
-      <url>
-            <loc>https://www.fernando.info/projects/ip-country-block/</loc>
-            <lastmod>2021-01-02T01:05:40+01:00</lastmod>
-          </url>
-    
-  
-    
-  
-</urlset>
+</sitemapindex>

@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mis proyectos on Fernando</title>
+    <link>https://www.fernando.info/es/projects/</link>
+    <description>Recent content in Mis proyectos on Fernando</description>
+    <generator>Hugo</generator>
+    <language>es-ES</language>
+    <lastBuildDate>Sat, 10 Aug 2024 10:05:46 +0100</lastBuildDate>
+    <atom:link href="https://www.fernando.info/es/projects/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Seguimiento de actividades Fitness</title>
+      <link>https://www.fernando.info/es/projects/fitness-activities-tracker/</link>
+      <pubDate>Sat, 10 Aug 2024 10:05:46 +0100</pubDate>
+      <guid>https://www.fernando.info/es/projects/fitness-activities-tracker/</guid>
+      <description>Pequeño proyecto web en Laravel para realizar un seguimiento de las actividades físicas diarias del usuario.&#xA;Características # Registro de usuario e inicio de sesión. Listado general de todas las actividades. Opción de filtrar por tipo (ciclismo, carrera, natación&amp;hellip;). Formulario online para añadir nuevas actividades. Características técnicas # Solicitar validación de datos del formulario sobre nueva actividad.</description>
+    </item>
+    <item>
+      <title>Nivel de CO2 en salas</title>
+      <link>https://www.fernando.info/es/projects/co2-monitoring-room/</link>
+      <pubDate>Sun, 12 Jun 2022 01:05:46 +0100</pubDate>
+      <guid>https://www.fernando.info/es/projects/co2-monitoring-room/</guid>
+      <description>SafeRoom es uno de mis proyectos personales más completos al trabajar simultáneamente con tecnologías variadas tanto a nivel de hardware como a nivel de software.&#xA;Resumen #Se ha desarrollado un sistema de monitorización que consta de uno o varios dispositivos sensores del nivel de concentración de CO2 y ocupación en salas de interior.</description>
+    </item>
+    <item>
+      <title>Gestión de contratación de seguro de salud</title>
+      <link>https://www.fernando.info/es/projects/health-insurance/</link>
+      <pubDate>Thu, 10 Mar 2022 01:05:46 +0100</pubDate>
+      <guid>https://www.fernando.info/es/projects/health-insurance/</guid>
+      <description>Aplicación web online desarrollada PHP, Mysql utilizando el framework Laravel. Permite gestionar el seguimiento del proceso de contratación de seguro de salud.&#xA;Características # Panel de administración con funcionalidades: Perfiles de administradores, agentes y clientes con permisos diferenciados de operativa en el panel. Administrador tiene permisos para: Añadir, modificar, eliminar agentes, aseguradoras, clientes, médicos/laboratorios y sucursales.</description>
+    </item>
+    <item>
+      <title>Gestión recibos de pagos de socios</title>
+      <link>https://www.fernando.info/es/projects/members-club/</link>
+      <pubDate>Thu, 10 Feb 2022 01:05:46 +0100</pubDate>
+      <guid>https://www.fernando.info/es/projects/members-club/</guid>
+      <description>Aplicación web online desarrollada PHP, Mysql utilizando el framework Laravel. Permite gestionar el historial de pagos y generar nuevos recibos recurrentes y de eventos de un club de socios.&#xA;Características # Añadir, modificar, eliminar socios. Añadir, modificar, eliminar campaña de recibo recurrente o evento. Crear, modificar, eliminar nuevos recibos recurrentes pendiente de pago de cada socio o sobre eventos puntuales.</description>
+    </item>
+    <item>
+      <title>Auditoría de equipos informáticos</title>
+      <link>https://www.fernando.info/es/projects/audit-computer-equipment/</link>
+      <pubDate>Tue, 11 Jan 2022 01:06:46 +0100</pubDate>
+      <guid>https://www.fernando.info/es/projects/audit-computer-equipment/</guid>
+      <description>Desarrollo backend y frontend de aplicación web en PHP y Mysql utilizando el framework de Laravel. Objetivo: crear un sistema que permita administrar la auditoría de equipos informáticos de empresas clientes y generar reporte web y en fichero pdf de los equipos analizados.&#xA;Características # Panel de administración generado basado en CRUDs, gráficas Chart.</description>
+    </item>
+    <item>
+      <title>Velario virtual. Enciende tu vela</title>
+      <link>https://www.fernando.info/es/projects/virtual-candle/</link>
+      <pubDate>Mon, 10 Jan 2022 01:05:46 +0100</pubDate>
+      <guid>https://www.fernando.info/es/projects/virtual-candle/</guid>
+      <description>Aplicación web online desarrollada tanto backend como frontend en PHP, Mysql y Javacript de velarío virtual. Permite encender una vela virtual &amp;ldquo;para que se cumplan todos tus deseos, peticiones o plegarias&amp;rdquo;.&#xA;Características # Panel de administración con funcionalidades: Modificar, eliminar velas creadas. Crear, modificar, eliminar campañas de velas concretas (Ej. &amp;ldquo;Tiempo de Pascua&amp;rdquo;), configurar imágenes personalizadas de veas, tiempos de consumo de vela e inicio y fin de campaña.</description>
+    </item>
+    <item>
+      <title>Comandas de cocina en tiempo real</title>
+      <link>https://www.fernando.info/es/projects/restaurant-orders/</link>
+      <pubDate>Sun, 02 May 2021 01:05:45 +0100</pubDate>
+      <guid>https://www.fernando.info/es/projects/restaurant-orders/</guid>
+      <description>&lt;p&gt;Aplicación web online desarrollada en PHP utilizando el framework Laravel para la gestión de pedidos a cocina de un restaurante en tiempo real (websockets Pusher.com). Permite, desde un panel web, la comunicación en tiempo real entre cocineros y camareros sobre estado comandas.&lt;/p&gt;&#xA;&lt;h3 id=&#34;características&#34; class=&#34;relative group&#34;&gt;Características &lt;span class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100&#34;&gt;&lt;a class=&#34;group-hover:text-primary-300 dark:group-hover:text-neutral-700&#34; style=&#34;text-decoration-line: none !important;&#34; href=&#34;#caracter%c3%adsticas&#34; aria-label=&#34;Ancla&#34;&gt;#&lt;/a&gt;&lt;/span&gt;&lt;/h3&gt;&lt;ol&gt;&#xA;&lt;li&gt;Sistema de registro e identificación de trabajadores del restaurante.&lt;/li&gt;&#xA;&lt;li&gt;Tres roles operativos:&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Administador: control total sobre cuentas de trabadores registrados, estado de cuenta activa/desactivada y tipo cuenta (administrador, camarero, cocinero).&lt;/li&gt;&#xA;&lt;li&gt;Camarero: operativa sobre productos y stock, toma de comandas y cambio de estados &amp;ldquo;Anotar pedido-&amp;gt;Pendiente&amp;rdquo; o &amp;ldquo;Preparado-&amp;gt;Entregado&amp;rdquo;.&lt;/li&gt;&#xA;&lt;li&gt;Cocinero: operativa sobre cambio de estado de pedido de Pendiente-&amp;gt;Preparado y cambio de estado de producto a &amp;ldquo;no stock&amp;rdquo;.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;ol start=&#34;3&#34;&gt;&#xA;&lt;li&gt;Sistema de notificaciones en tiempo real utilizando websockets mediante ventanas emergentes para avisar sobre nuevos pedidos a cocineros o avisar a camareros cuando el pedido está listo en cocina.&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://github.com/fernandod1/restaurant-orders&#34; target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;Capturas de pantalla y descargar&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Panel de gestión depilación</title>
+      <link>https://www.fernando.info/es/projects/beauty-center/</link>
+      <pubDate>Sun, 03 Jan 2021 10:05:47 +0100</pubDate>
+      <guid>https://www.fernando.info/es/projects/beauty-center/</guid>
+      <description>Script completo en PHP consistente en un panel de administración de clientes de un centro de depilación láser. Permite llevar la administración de los servicios contratados y sesiones consumidas por cada cliente.&#xA;Características # Añadir, modificar, y eliminar clientes. Listado de clientes o búsqueda individual. Sistema para subir fichero de documentación de descarga de responsibilidad de cada cliente.</description>
+    </item>
+    <item>
+      <title>Portal de anuncios clasificados</title>
+      <link>https://www.fernando.info/es/projects/classified-ads/</link>
+      <pubDate>Sat, 02 Jan 2021 01:05:48 +0100</pubDate>
+      <guid>https://www.fernando.info/es/projects/classified-ads/</guid>
+      <description>Descripción #Proyecto desarrollado en PHP utilizando el framework de Laravel de anuncios de objetos que ya no se utilizan y se ofrecen como regalo a otros usuarios que lo puedan necesitar. &amp;ldquo;Quiero regalar algo… que ya no necesito y que puede ser útil para otra persona.&amp;rdquo;&#xA;Características # Sistema de registro e identificación de usuarios.</description>
+    </item>
+    <item>
+      <title>Covid-19 reporte en España</title>
+      <link>https://www.fernando.info/es/projects/covid-19-report/</link>
+      <pubDate>Sat, 02 Jan 2021 01:05:46 +0100</pubDate>
+      <guid>https://www.fernando.info/es/projects/covid-19-report/</guid>
+      <description>Script en PHP que muestra los datos diarios de infectados de Covid-19 en España realizando extrayendo la información de la API proporcionada por el Ministerio de Sanidad del gobierno de España.&#xA;Descargar&#xA;Screenshots # Reporte de infectados por Covid por comunidad autónoma </description>
+    </item>
+    <item>
+      <title>Ofertas Aliexpress en Telegram</title>
+      <link>https://www.fernando.info/es/projects/aliexpress-telegram-bot/</link>
+      <pubDate>Sat, 02 Jan 2021 01:05:46 +0100</pubDate>
+      <guid>https://www.fernando.info/es/projects/aliexpress-telegram-bot/</guid>
+      <description>Script creado Python que permite leer cada uno de los enlaces de ofertas de Aliexpress añadidos a un fichero de tipo Excel y los publicarlos en un canal de Telegram propio a traves de un bot creado con el formato que se muestra en la imagen inferior. Debe crearse en el servidor una tarea cron para deternimar la frecuencia de publicación de nuevas ofertas.</description>
+    </item>
+    <item>
+      <title>Reserva sala de reunión</title>
+      <link>https://www.fernando.info/es/projects/booking-room/</link>
+      <pubDate>Sat, 02 Jan 2021 01:05:45 +0100</pubDate>
+      <guid>https://www.fernando.info/es/projects/booking-room/</guid>
+      <description>Script en PHP para gestionar un sistema de reserva de salas de reuniones en franjas horarias.&#xA;Características # Incluido calendario para elegir fecha. Script configurado para asignar la sala más óptima basada en el número de personas y capacidad. No necesita base de datos MySQL. Los datos son almacenados en ficheros.</description>
+    </item>
+    <item>
+      <title>Monitoriza expiración dominio .ES</title>
+      <link>https://www.fernando.info/es/projects/domain-expiration-monitoring/</link>
+      <pubDate>Sat, 02 Jan 2021 01:05:44 +0100</pubDate>
+      <guid>https://www.fernando.info/es/projects/domain-expiration-monitoring/</guid>
+      <description>Script en Python que realiza un monitoreo continuado de la expiración del registro de un dominio .ES con el fin de realizar un backorder en el momento preciso para obtener el dominio de interés.&#xA;Descargar</description>
+    </item>
+    <item>
+      <title>Genera enlaces temporales</title>
+      <link>https://www.fernando.info/es/projects/temporary-link-generator/</link>
+      <pubDate>Sat, 02 Jan 2021 01:05:43 +0100</pubDate>
+      <guid>https://www.fernando.info/es/projects/temporary-link-generator/</guid>
+      <description>Script completo en PHP con panel de administración que permite generar enlaces personalizados que caducan al alcanzarse X clicks. Puede insertarse en un sitio web y obtener estadísticas diarías sobre el número de clicks recibidos en una campaña. El script genera un códido javascript personalizado que podrá insertarse en una página web externa y mostrará un contador con el total de clicks recibidos en campaña.</description>
+    </item>
+    <item>
+      <title>Instagram a Discord envío</title>
+      <link>https://www.fernando.info/es/projects/instagram-to-discord-publish/</link>
+      <pubDate>Sat, 02 Jan 2021 01:05:42 +0100</pubDate>
+      <guid>https://www.fernando.info/es/projects/instagram-to-discord-publish/</guid>
+      <description>Script desarrollado en Python que monitoriza un cuenta de Instagram, y cuando es publicada una imagen, realiza su publicación simultánea en un canal de Discord mediante webhook.&#xA;Descargar</description>
+    </item>
+    <item>
+      <title>Descargar de Instagram</title>
+      <link>https://www.fernando.info/es/projects/instagram-downloader/</link>
+      <pubDate>Sat, 02 Jan 2021 01:05:41 +0100</pubDate>
+      <guid>https://www.fernando.info/es/projects/instagram-downloader/</guid>
+      <description>Script en Python para descargar todas las imágenes y videos de un usuario público en Instagram.&#xA;Descargar</description>
+    </item>
+    <item>
+      <title>Bloqueo IP web por países</title>
+      <link>https://www.fernando.info/es/projects/ip-country-block/</link>
+      <pubDate>Sat, 02 Jan 2021 01:05:40 +0100</pubDate>
+      <guid>https://www.fernando.info/es/projects/ip-country-block/</guid>
+      <description>Script con panel de control que permite configurar y bloquear el acceso desde determinados países a determinadas páginas web PHP. Hace uso de la API de IPs de paises de http://api.hostip.info.&#xA;Capturas de pantalla y descargar</description>
+    </item>
+  </channel>
+</rss>

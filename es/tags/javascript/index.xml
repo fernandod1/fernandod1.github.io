@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Javascript on Fernando</title>
+    <link>https://www.fernando.info/es/tags/javascript/</link>
+    <description>Recent content in Javascript on Fernando</description>
+    <generator>Hugo</generator>
+    <language>es-ES</language>
+    <lastBuildDate>Sun, 12 Jun 2022 01:05:46 +0100</lastBuildDate>
+    <atom:link href="https://www.fernando.info/es/tags/javascript/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Nivel de CO2 en salas</title>
+      <link>https://www.fernando.info/es/projects/co2-monitoring-room/</link>
+      <pubDate>Sun, 12 Jun 2022 01:05:46 +0100</pubDate>
+      <guid>https://www.fernando.info/es/projects/co2-monitoring-room/</guid>
+      <description>SafeRoom es uno de mis proyectos personales más completos al trabajar simultáneamente con tecnologías variadas tanto a nivel de hardware como a nivel de software.&#xA;Resumen #Se ha desarrollado un sistema de monitorización que consta de uno o varios dispositivos sensores del nivel de concentración de CO2 y ocupación en salas de interior.</description>
+    </item>
+    <item>
+      <title>Gestión de contratación de seguro de salud</title>
+      <link>https://www.fernando.info/es/projects/health-insurance/</link>
+      <pubDate>Thu, 10 Mar 2022 01:05:46 +0100</pubDate>
+      <guid>https://www.fernando.info/es/projects/health-insurance/</guid>
+      <description>Aplicación web online desarrollada PHP, Mysql utilizando el framework Laravel. Permite gestionar el seguimiento del proceso de contratación de seguro de salud.&#xA;Características # Panel de administración con funcionalidades: Perfiles de administradores, agentes y clientes con permisos diferenciados de operativa en el panel. Administrador tiene permisos para: Añadir, modificar, eliminar agentes, aseguradoras, clientes, médicos/laboratorios y sucursales.</description>
+    </item>
+    <item>
+      <title>Gestión recibos de pagos de socios</title>
+      <link>https://www.fernando.info/es/projects/members-club/</link>
+      <pubDate>Thu, 10 Feb 2022 01:05:46 +0100</pubDate>
+      <guid>https://www.fernando.info/es/projects/members-club/</guid>
+      <description>Aplicación web online desarrollada PHP, Mysql utilizando el framework Laravel. Permite gestionar el historial de pagos y generar nuevos recibos recurrentes y de eventos de un club de socios.&#xA;Características # Añadir, modificar, eliminar socios. Añadir, modificar, eliminar campaña de recibo recurrente o evento. Crear, modificar, eliminar nuevos recibos recurrentes pendiente de pago de cada socio o sobre eventos puntuales.</description>
+    </item>
+    <item>
+      <title>Auditoría de equipos informáticos</title>
+      <link>https://www.fernando.info/es/projects/audit-computer-equipment/</link>
+      <pubDate>Tue, 11 Jan 2022 01:06:46 +0100</pubDate>
+      <guid>https://www.fernando.info/es/projects/audit-computer-equipment/</guid>
+      <description>Desarrollo backend y frontend de aplicación web en PHP y Mysql utilizando el framework de Laravel. Objetivo: crear un sistema que permita administrar la auditoría de equipos informáticos de empresas clientes y generar reporte web y en fichero pdf de los equipos analizados.&#xA;Características # Panel de administración generado basado en CRUDs, gráficas Chart.</description>
+    </item>
+    <item>
+      <title>Velario virtual. Enciende tu vela</title>
+      <link>https://www.fernando.info/es/projects/virtual-candle/</link>
+      <pubDate>Mon, 10 Jan 2022 01:05:46 +0100</pubDate>
+      <guid>https://www.fernando.info/es/projects/virtual-candle/</guid>
+      <description>Aplicación web online desarrollada tanto backend como frontend en PHP, Mysql y Javacript de velarío virtual. Permite encender una vela virtual &amp;ldquo;para que se cumplan todos tus deseos, peticiones o plegarias&amp;rdquo;.&#xA;Características # Panel de administración con funcionalidades: Modificar, eliminar velas creadas. Crear, modificar, eliminar campañas de velas concretas (Ej. &amp;ldquo;Tiempo de Pascua&amp;rdquo;), configurar imágenes personalizadas de veas, tiempos de consumo de vela e inicio y fin de campaña.</description>
+    </item>
+  </channel>
+</rss>
